@@ -15,39 +15,42 @@ def fetch_and_save_data():
         
         if "ott_platforms" in main_data:
             for platform in main_data["ott_platforms"]:
-                name = platform.get("name", "Unknown").replace(" ", "_")
+                p_name = platform.get("name")
+                p_logo = platform.get("logo")
+                p_adult = platform.get("adult", "no")
+                p_premium = platform.get("premium", "no")
                 json_url = platform.get("json_url")
                 
+  
+                file_save_name = p_name.replace(" ", "_")
                 
-                platform_meta = {
-                    "name": platform.get("name"),
-                    "logo": platform.get("logo"),
-                    "adult": platform.get("adult", "no"),
-                    "premium": platform.get("premium", "no")
-                }
-                
-                print(f"Fetching data for {name}...")
+                print(f"Processing {p_name}...")
                 
                 try:
                     p_response = requests.get(json_url)
-                    p_data = p_response.json()
+                    content_data = p_response.json()
                     
+    
+                    if "categories" in content_data:
+                        for category in content_data["categories"]:
+
+                            category["name"] = p_name
+                         
+                            category["logo"] = p_logo
+                            category["adult"] = p_adult
+                            category["premium"] = p_premium
                     
-                    final_output = {
-                        "platform_info": platform_meta,
-                        "content": p_data
-                    }
-                    
-                    filename = os.path.join(folder_name, f"{name}.json")
+                  
+                    filename = os.path.join(folder_name, f"{file_save_name}.json")
                     with open(filename, "w", encoding="utf-8") as f:
-                        json.dump(final_output, f, indent=2, ensure_ascii=False)
-                    print(f"Successfully saved {filename} with metadata.")
+                        json.dump(content_data, f, indent=2, ensure_ascii=False)
+                    print(f"Success: {filename}")
                     
                 except Exception as e:
-                    print(f"Failed to fetch content for {name}: {e}")
+                    print(f"Error processing content for {p_name}: {e}")
                     
     except Exception as e:
-        print(f"Error fetching main JSON: {e}")
+        print(f"Error fetching main config: {e}")
 
 if __name__ == "__main__":
     fetch_and_save_data()
