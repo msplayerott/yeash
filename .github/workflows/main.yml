@@ -1,8 +1,8 @@
-name: Update OTT Data
+name: Update OTT Data 
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */2 * * *' 
   workflow_dispatch: 
 
 jobs:
@@ -22,12 +22,12 @@ jobs:
       run: pip install requests
 
     - name: Run Fetch Script
-      run: python fapp.py
+      run: python app.py
 
     - name: Commit and Push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add *.json
-        git commit -m "Auto-update OTT JSON data: $(date)" || exit 0
+        git add wak_tu/*.json
+        git commit -m "Auto-update OTT data in wak_tu folder: $(date)" || exit 0
         git push
