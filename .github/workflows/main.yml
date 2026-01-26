@@ -22,7 +22,7 @@ jobs:
       run: pip install requests
 
     - name: Run Fetch Script
-      run: python fetch_data.py
+      run: python fapp.py
 
     - name: Commit and Push changes
       run: |
