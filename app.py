@@ -6,10 +6,7 @@ EMBY_CONFIG = {
     "server": "https://play.roarzone.info",
     "username": "roarzone_guest",
     "password": "",
-    "parentId": "1395",
-    "deviceId": "1e58531d-f79d-420e-8d1f-275900e30433",
-    "platform_name": "Hindi Movies",
-    "platform_logo": "https://lh3.googleusercontent.com/Zf8BDyJwIg3sVzRopsN8eqkRKQPmHuPn1TdnpCpta3IKeB7Nxvjv9W3MzQEIFUD_lPw=h315"
+    "deviceId": "1e58531d-f79d-420e-8d1f-275900e30433"
 }
 
 def fetch_ott_data():
@@ -42,15 +39,15 @@ def fetch_ott_data():
                     with open(filename, "w", encoding="utf-8") as f:
                         json.dump(content_data, f, indent=2, ensure_ascii=False)
                 except Exception as e:
-                    print(f"OTT Error: {e}")
+                    print(f"Error: {e}")
     except Exception as e:
-        print(f"Config Error: {e}")
+        print(f"Error: {e}")
 
-def fetch_emby_movies():
+def fetch_emby_movies(parent_id, platform_name, save_filename, platform_logo):
     folder_name = "wak_tu"
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
-    print(f"Processing Emby: {EMBY_CONFIG['platform_name']}")
+    print(f"Processing Emby: {platform_name} (ID: {parent_id})")
     auth_url = f"{EMBY_CONFIG['server']}/emby/Users/AuthenticateByName"
     auth_header = f"MediaBrowser Client=\"Emby Web\", Device=\"GitHub Action\", DeviceId=\"{EMBY_CONFIG['deviceId']}\", Version=\"4.9.1.80\""
     payload = {"Username": EMBY_CONFIG['username'], "Pw": EMBY_CONFIG['password']}
@@ -63,7 +60,7 @@ def fetch_emby_movies():
             user_id = auth_data["SessionInfo"]["UserId"]
             items_url = f"{EMBY_CONFIG['server']}/emby/Users/{user_id}/Items"
             params = {
-                "ParentId": EMBY_CONFIG['parentId'],
+                "ParentId": parent_id,
                 "Recursive": "true",
                 "IncludeItemTypes": "Movie",
                 "Fields": "PrimaryImageTag,ProductionYear",
@@ -77,13 +74,10 @@ def fetch_emby_movies():
                     m_id = item["Id"]
                     original_name = item["Name"]
                     year = item.get("ProductionYear")
-                    
-                    # Title-er sathe year add korar logic ekhane
                     if year:
                         display_title = f"{original_name} ({year})"
                     else:
                         display_title = original_name
-                    
                     all_items.append({
                         "id": original_name,
                         "title": display_title,
@@ -96,23 +90,28 @@ def fetch_emby_movies():
                     "hero": hero_list,
                     "categories": [
                         {
-                            "name": EMBY_CONFIG['platform_name'],
+                            "name": platform_name,
                             "items": all_items,
-                            "logo": EMBY_CONFIG['platform_logo'],
+                            "logo": platform_logo,
                             "adult": "no",
                             "premium": "no"
                         }
                     ]
                 }
-                db_path = os.path.join(folder_name, "db.json")
+                db_path = os.path.join(folder_name, save_filename)
                 with open(db_path, "w", encoding="utf-8") as f:
                     json.dump(final_db, f, indent=2, ensure_ascii=False)
-                print(f"Successfully saved {len(all_items)} movies to {db_path}")
+                print(f"Success: {len(all_items)} movies saved to {db_path}")
         else:
-            print("Login Failed")
+            print(f"Login Failed")
     except Exception as e:
-        print(f"Emby Error: {e}")
+        print(f"Error: {e}")
 
 if __name__ == "__main__":
     fetch_ott_data()
-    fetch_emby_movies()
+    
+    # db.json এর জন্য লোগো
+    fetch_emby_movies("1395", "Hindi Movies", "db.json", "https://lh3.googleusercontent.com/Zf8BDyJwIg3sVzRopsN8eqkRKQPmHuPn1TdnpCpta3IKeB7Nxvjv9W3MzQEIFUD_lPw=h315")
+    
+    # db2.json এর জন্য আলাদা লোগো (নিচের লিঙ্কটি পরিবর্তন করে আপনার পছন্দমতো লোগো দিতে পারেন)
+    fetch_emby_movies("30460", "South Indian Movies", "db2.json", "https://cdn.aptoide.com/imgs/c/2/6/c26e21b6bf7ff848422752e80673074f_icon.png")
