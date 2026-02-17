@@ -9,7 +9,7 @@ EMBY_CONFIG = {
     "parentId": "1395",
     "deviceId": "1e58531d-f79d-420e-8d1f-275900e30433",
     "platform_name": "Hindi Movies",
-    "platform_logo": "https://play.roarzone.info/web/modules/themes/logowhite.png"
+    "platform_logo": "https://lh3.googleusercontent.com/Zf8BDyJwIg3sVzRopsN8eqkRKQPmHuPn1TdnpCpta3IKeB7Nxvjv9W3MzQEIFUD_lPw=h315"
 }
 
 def fetch_ott_data():
