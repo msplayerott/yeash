@@ -1,6 +1,8 @@
 name: Update All Data
 
 on:
+  push:
+    branches: [ main ]
   schedule:
     - cron: '0 */2 * * *'
   workflow_dispatch: 
@@ -8,6 +10,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
     - name: Checkout Repository
@@ -19,7 +23,7 @@ jobs:
         python-version: '3.x'
 
     - name: Install Dependencies
-      run: pip install requests
+      run: pip install requests urllib3
 
     - name: Run Update Script
       run: python app.py
@@ -28,8 +32,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add wak_tu/*.json db.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update OTT and Emby data: $(date)"
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update data: $(date)"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
