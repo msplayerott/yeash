@@ -1,8 +1,8 @@
-name: Update OTT Data 
+name: Update All Data
 
 on:
   schedule:
-    - cron: '0 */2 * * *' 
+    - cron: '0 */2 * * *'
   workflow_dispatch: 
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -21,13 +21,15 @@ jobs:
     - name: Install Dependencies
       run: pip install requests
 
-    - name: Run Fetch Script
+    - name: Run Update Script
       run: python app.py
 
     - name: Commit and Push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add wak_tu/*.json
-        git commit -m "Auto-update OTT data in wak_tu folder: $(date)" || exit 0
+        git add wak_tu/*.json db.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update OTT and Emby data: $(date)"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
