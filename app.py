@@ -54,6 +54,10 @@ def fetch_ott_data():
         print(f"Error: {e}")
 
 def fetch_emby_movies():
+    folder_name = "wak_tu"
+    if not os.path.exists(folder_name):
+        os.makedirs(folder_name)
+
     print(f"Processing Emby: {EMBY_CONFIG['platform_name']}")
     auth_url = f"{EMBY_CONFIG['server']}/emby/Users/AuthenticateByName"
     auth_header = f"MediaBrowser Client=\"Emby Web\", Device=\"GitHub Action\", DeviceId=\"{EMBY_CONFIG['deviceId']}\", Version=\"4.9.1.80\""
@@ -110,10 +114,12 @@ def fetch_emby_movies():
                     ]
                 }
                 
-                with open("db.json", "w", encoding="utf-8") as f:
+                # ফাইলটি এখন wak_tu ফোল্ডারের ভেতরে সেভ হবে
+                db_path = os.path.join(folder_name, "db.json")
+                with open(db_path, "w", encoding="utf-8") as f:
                     json.dump(final_db, f, indent=2, ensure_ascii=False)
                 
-                print(f"Success: {len(all_items)} movies saved to db.json")
+                print(f"Success: {len(all_items)} movies saved to {db_path}")
         else:
             print("Login Failed")
     except Exception as e:
