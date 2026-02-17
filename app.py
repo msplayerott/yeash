@@ -10,12 +10,13 @@ EMBY_CONFIG = {
 }
 
 def fetch_ott_data():
+    # Mandamina ny angon-drakitra OTT
     main_url = "https://allinonedev.top/main1.json"
     folder_name = "wak_tu"
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
     try:
-        response = requests.get(main_url)
+        response = requests.get(main_url, timeout=15)
         main_data = response.json()
         if "ott_platforms" in main_data:
             for platform in main_data["ott_platforms"]:
@@ -25,9 +26,9 @@ def fetch_ott_data():
                 p_premium = platform.get("premium", "no")
                 json_url = platform.get("json_url")
                 file_save_name = p_name.replace(" ", "_")
-                print(f"Processing OTT: {p_name}")
+                print(f"Mandamina OTT: {p_name}")
                 try:
-                    p_response = requests.get(json_url)
+                    p_response = requests.get(json_url, timeout=15)
                     content_data = p_response.json()
                     if "categories" in content_data:
                         for category in content_data["categories"]:
@@ -39,15 +40,16 @@ def fetch_ott_data():
                     with open(filename, "w", encoding="utf-8") as f:
                         json.dump(content_data, f, indent=2, ensure_ascii=False)
                 except Exception as e:
-                    print(f"Error: {e}")
+                    print(f"Hadisoana tamin'ny OTT {p_name}: {e}")
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Hadisoana tamin'ny fakana config: {e}")
 
 def fetch_emby_movies(parent_id, platform_name, save_filename, platform_logo):
+    # Maka ny sarimihetsika avy amin'ny Emby
     folder_name = "wak_tu"
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
-    print(f"Processing Emby: {platform_name} (ID: {parent_id})")
+    print(f"Mandamina Emby: {platform_name} (ID: {parent_id})")
     auth_url = f"{EMBY_CONFIG['server']}/emby/Users/AuthenticateByName"
     auth_header = f"MediaBrowser Client=\"Emby Web\", Device=\"GitHub Action\", DeviceId=\"{EMBY_CONFIG['deviceId']}\", Version=\"4.9.1.80\""
     payload = {"Username": EMBY_CONFIG['username'], "Pw": EMBY_CONFIG['password']}
@@ -101,17 +103,18 @@ def fetch_emby_movies(parent_id, platform_name, save_filename, platform_logo):
                 db_path = os.path.join(folder_name, save_filename)
                 with open(db_path, "w", encoding="utf-8") as f:
                     json.dump(final_db, f, indent=2, ensure_ascii=False)
-                print(f"Success: {len(all_items)} movies saved to {db_path}")
+                print(f"Fahombiazana: sarimihetsika {len(all_items)} voatahiry ao amin'ny {db_path}")
         else:
-            print(f"Login Failed")
+            print(f"Tsy nahomby ny fidirana ho an'ny {platform_name}")
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Hadisoana ho an'ny {platform_name}: {e}")
 
 if __name__ == "__main__":
     fetch_ott_data()
     
-    # db.json এর জন্য লোগো
-    fetch_emby_movies("1395", "Hindi Movies", "db.json", "https://lh3.googleusercontent.com/Zf8BDyJwIg3sVzRopsN8eqkRKQPmHuPn1TdnpCpta3IKeB7Nxvjv9W3MzQEIFUD_lPw=h315")
-    
-    # db2.json এর জন্য আলাদা লোগো (নিচের লিঙ্কটি পরিবর্তন করে আপনার পছন্দমতো লোগো দিতে পারেন)
-    fetch_emby_movies("30460", "South Indian Movies", "db2.json", "https://cdn.aptoide.com/imgs/c/2/6/c26e21b6bf7ff848422752e80673074f_icon.png")
+    # Fanavaozana ny rakitra JSON rehetra
+    fetch_emby_movies("1395", "Bollywood Movies", "db.json", "https://lh3.googleusercontent.com/Zf8BDyJwIg3sVzRopsN8eqkRKQPmHuPn1TdnpCpta3IKeB7Nxvjv9W3MzQEIFUD_lPw=h315")
+    fetch_emby_movies("30460", "South India Movies", "db2.json", "https://cdn.aptoide.com/imgs/c/2/6/c26e21b6bf7ff848422752e80673074f_icon.png")
+    fetch_emby_movies("25487", "Hollywood Movies", "db3.json", "https://img.freepik.com/premium-vector/hollywood-film-reel-logo_1112146-301.jpg")
+    fetch_emby_movies("117295", "Kolkata Movies", "db4.json", "https://yt3.googleusercontent.com/VSSbeS5NgUikFBxR3xMwhVzsLr70D1I361KjhpBIgCY9ktbmZajOryDiISlNFOcSpDLDUzioJg=s900-c-k-c0x00ffffff-no-rj")
+    fetch_emby_movies("1152", "Bangla Movies", "db5.json", "https://static4.tgstat.ru/channels/_0/16/16f74c51d97408ae467e7c0b8b2423d9.jpg")
