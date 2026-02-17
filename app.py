@@ -75,9 +75,18 @@ def fetch_emby_movies():
                 all_items = []
                 for item in items_data["Items"]:
                     m_id = item["Id"]
+                    original_name = item["Name"]
+                    year = item.get("ProductionYear")
+                    
+                    # Title-er sathe year add korar logic ekhane
+                    if year:
+                        display_title = f"{original_name} ({year})"
+                    else:
+                        display_title = original_name
+                    
                     all_items.append({
-                        "id": item["Name"],
-                        "title": item["Name"],
+                        "id": original_name,
+                        "title": display_title,
                         "poster": f"{EMBY_CONFIG['server']}/emby/Items/{m_id}/Images/Primary?quality=90&api_key={token}",
                         "stream_url": f"{EMBY_CONFIG['server']}/emby/Videos/{m_id}/stream?static=true&api_key={token}",
                         "headers": {"Referer": f"{EMBY_CONFIG['server']}/"}
