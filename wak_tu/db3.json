@@ -3480,6 +3480,15 @@
           }
         },
         {
+          "id": "Brick",
+          "title": "Brick (2025)",
+          "poster": "https://play.roarzone.info/emby/Items/1013779/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "stream_url": "https://play.roarzone.info/emby/Videos/1013779/stream?static=true&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
           "id": "Brick Mansions",
           "title": "Brick Mansions (2014)",
           "poster": "https://play.roarzone.info/emby/Items/935658/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
