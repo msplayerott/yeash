@@ -780,6 +780,15 @@
           }
         },
         {
+          "id": "Am Ah",
+          "title": "Am Ah (2025)",
+          "poster": "https://play.roarzone.info/emby/Items/1013797/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "stream_url": "https://play.roarzone.info/emby/Videos/1013797/stream?static=true&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
           "id": "Amar Akbar Anthony",
           "title": "Amar Akbar Anthony (2018)",
           "poster": "https://play.roarzone.info/emby/Items/952675/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
@@ -2391,6 +2400,15 @@
           }
         },
         {
+          "id": "Chaari 111",
+          "title": "Chaari 111 (2024)",
+          "poster": "https://play.roarzone.info/emby/Items/1013845/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "stream_url": "https://play.roarzone.info/emby/Videos/1013845/stream?static=true&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
           "id": "Chaarulatha",
           "title": "Chaarulatha (2012)",
           "poster": "https://play.roarzone.info/emby/Items/951424/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
@@ -2566,6 +2584,15 @@
           "title": "Chasing Tyson (2015)",
           "poster": "https://play.roarzone.info/emby/Items/952697/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
           "stream_url": "https://play.roarzone.info/emby/Videos/952697/stream?static=true&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
+          "id": "Chatha Pacha: The Ring of Rowdies",
+          "title": "Chatha Pacha: The Ring of Rowdies (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/1013819/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "stream_url": "https://play.roarzone.info/emby/Videos/1013819/stream?static=true&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
           "headers": {
             "Referer": "https://play.roarzone.info/"
           }
@@ -5154,6 +5181,15 @@
           }
         },
         {
+          "id": "Hotspot 2 Much",
+          "title": "Hotspot 2 Much (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/1013818/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "stream_url": "https://play.roarzone.info/emby/Videos/1013818/stream?static=true&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
           "id": "House Mates",
           "title": "House Mates (2025)",
           "poster": "https://play.roarzone.info/emby/Items/1010142/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
@@ -7498,6 +7534,15 @@
           "title": "Luckunnodu (2017)",
           "poster": "https://play.roarzone.info/emby/Items/952670/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
           "stream_url": "https://play.roarzone.info/emby/Videos/952670/stream?static=true&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
+          "id": "Lucky",
+          "title": "Lucky (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/1013817/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "stream_url": "https://play.roarzone.info/emby/Videos/1013817/stream?static=true&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
           "headers": {
             "Referer": "https://play.roarzone.info/"
           }
@@ -11067,6 +11112,15 @@
           }
         },
         {
+          "id": "Retta Thala",
+          "title": "Retta Thala (2025)",
+          "poster": "https://play.roarzone.info/emby/Items/1013796/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "stream_url": "https://play.roarzone.info/emby/Videos/1013796/stream?static=true&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
           "id": "Retta Vaalu",
           "title": "Retta Vaalu (2014)",
           "poster": "https://play.roarzone.info/emby/Items/951568/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
@@ -12061,6 +12115,15 @@
           "title": "Shivam (2015)",
           "poster": "https://play.roarzone.info/emby/Items/92136/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
           "stream_url": "https://play.roarzone.info/emby/Videos/92136/stream?static=true&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
+          "id": "Shivam Bhaje",
+          "title": "Shivam Bhaje (2024)",
+          "poster": "https://play.roarzone.info/emby/Items/1013844/Images/Primary?quality=90&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
+          "stream_url": "https://play.roarzone.info/emby/Videos/1013844/stream?static=true&api_key=d5e8b46d2c3b4cb6b2f4e06a9b499760",
           "headers": {
             "Referer": "https://play.roarzone.info/"
           }
