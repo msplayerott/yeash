@@ -1,9 +1,47 @@
 {
-  "hero": [],
+  "hero": [
+    {
+      "id": "Doa",
+      "title": "Doa (2026)",
+      "poster": "https://play.roarzone.info/emby/Items/137937/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+      "stream_url": "https://play.roarzone.info/emby/Videos/137937/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+      "headers": {
+        "Referer": "https://play.roarzone.info/"
+      }
+    }
+  ],
   "categories": [
     {
       "name": "Bangla Movies",
-      "items": [],
+      "items": [
+        {
+          "id": "Doa",
+          "title": "Doa (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/137937/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/137937/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
+          "id": "Jackpot",
+          "title": "Jackpot (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/137936/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/137936/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
+          "id": "Love Sitter",
+          "title": "Love Sitter (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/137938/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/137938/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        }
+      ],
       "logo": "https://static4.tgstat.ru/channels/_0/16/16f74c51d97408ae467e7c0b8b2423d9.jpg",
       "adult": "no",
       "premium": "no"
