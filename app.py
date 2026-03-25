@@ -113,8 +113,8 @@ if __name__ == "__main__":
     fetch_ott_data()
     
     # Fanavaozana ny rakitra JSON rehetra
-    fetch_emby_movies("1395", "Bollywood Movies", "db.json", "https://lh3.googleusercontent.com/Zf8BDyJwIg3sVzRopsN8eqkRKQPmHuPn1TdnpCpta3IKeB7Nxvjv9W3MzQEIFUD_lPw=h315")
-    fetch_emby_movies("30460", "South India Movies", "db2.json", "https://cdn.aptoide.com/imgs/c/2/6/c26e21b6bf7ff848422752e80673074f_icon.png")
-    fetch_emby_movies("25487", "Hollywood Movies", "db3.json", "https://img.freepik.com/premium-vector/hollywood-film-reel-logo_1112146-301.jpg")
-    fetch_emby_movies("117295", "Kolkata Movies", "db4.json", "https://yt3.googleusercontent.com/VSSbeS5NgUikFBxR3xMwhVzsLr70D1I361KjhpBIgCY9ktbmZajOryDiISlNFOcSpDLDUzioJg=s900-c-k-c0x00ffffff-no-rj")
-    fetch_emby_movies("1152", "Bangla Movies", "db5.json", "https://static4.tgstat.ru/channels/_0/16/16f74c51d97408ae467e7c0b8b2423d9.jpg")
+    fetch_emby_movies("3", "Bollywood Movies", "db.json", "https://lh3.googleusercontent.com/Zf8BDyJwIg3sVzRopsN8eqkRKQPmHuPn1TdnpCpta3IKeB7Nxvjv9W3MzQEIFUD_lPw=h315")
+    fetch_emby_movies("7660", "South India Movies", "db2.json", "https://cdn.aptoide.com/imgs/c/2/6/c26e21b6bf7ff848422752e80673074f_icon.png")
+    fetch_emby_movies("9031", "Hollywood Movies", "db3.json", "https://img.freepik.com/premium-vector/hollywood-film-reel-logo_1112146-301.jpg")
+    fetch_emby_movies("137971", "Kolkata Movies", "db4.json", "https://yt3.googleusercontent.com/VSSbeS5NgUikFBxR3xMwhVzsLr70D1I361KjhpBIgCY9ktbmZajOryDiISlNFOcSpDLDUzioJg=s900-c-k-c0x00ffffff-no-rj")
+    fetch_emby_movies("137931", "Bangla Movies", "db5.json", "https://static4.tgstat.ru/channels/_0/16/16f74c51d97408ae467e7c0b8b2423d9.jpg")
