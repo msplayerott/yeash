@@ -22482,12 +22482,12 @@
                         "duration": "185m",
                         "episode_title": "E19 ∙ Water Bottle 2019 Complete w1080 converted reencoded",
                         "headers": {
-                            "Referer": "https://speedostream1.com/",
+                            "Referer": "https://play.roarzone.info/",
                             "Origin": "",
                             "User-Agent": ""
                         },
                         "posterUrl": "https://play.roarzone.info/emby/Items/111726/Images/Primary?api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-                        "streamUrl": "https://gustavo.ydc1wes.me/hls2/01/00008/zr01l354sps8_,l,h,.urlset/master.m3u8?t=wZU8LSAcr1-wIRNuUb2K6OksHeCiyiMBELQk8ttL-vs&s=1774466139&e=21600&f=43017&i=0.0&sp=0",
+                        "streamUrl": "https://play.roarzone.info/emby/Videos/111726/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
                         "view": 0
                     }
                 ],
