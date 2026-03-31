@@ -1,10 +1,10 @@
 {
   "hero": [
     {
-      "id": "Doa",
-      "title": "Doa (2026)",
-      "poster": "https://play.roarzone.info/emby/Items/137937/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-      "stream_url": "https://play.roarzone.info/emby/Videos/137937/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+      "id": "Ali",
+      "title": "Ali (2025)",
+      "poster": "https://play.roarzone.info/emby/Items/157221/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+      "stream_url": "https://play.roarzone.info/emby/Videos/157221/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
       "headers": {
         "Referer": "https://play.roarzone.info/"
       }
@@ -14,6 +14,15 @@
     {
       "name": "Bangla Movies",
       "items": [
+        {
+          "id": "Ali",
+          "title": "Ali (2025)",
+          "poster": "https://play.roarzone.info/emby/Items/157221/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/157221/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
         {
           "id": "Doa",
           "title": "Doa (2026)",
@@ -33,10 +42,46 @@
           }
         },
         {
+          "id": "Kata 2",
+          "title": "Kata 2 (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/157210/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/157210/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
           "id": "Love Sitter",
           "title": "Love Sitter (2026)",
           "poster": "https://play.roarzone.info/emby/Items/137938/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.info/emby/Videos/137938/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
+          "id": "Nilanjona Express",
+          "title": "Nilanjona Express (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/157217/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/157217/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
+          "id": "Sulabh Complex",
+          "title": "Sulabh Complex (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/157219/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/157219/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
+          "id": "Tagar",
+          "title": "Tagar (2025)",
+          "poster": "https://play.roarzone.info/emby/Items/157235/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/157235/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.info/"
           }
