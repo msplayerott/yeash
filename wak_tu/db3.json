@@ -5676,6 +5676,15 @@
           }
         },
         {
+          "id": "Even If This Love Disappears Tonight",
+          "title": "Even If This Love Disappears Tonight (2025)",
+          "poster": "https://play.roarzone.info/emby/Items/171734/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/171734/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
           "id": "Everest",
           "title": "Everest (2015)",
           "poster": "https://play.roarzone.info/emby/Items/147240/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -7800,6 +7809,15 @@
           }
         },
         {
+          "id": "Hijack 1971",
+          "title": "Hijack 1971 (2024)",
+          "poster": "https://play.roarzone.info/emby/Items/171707/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/171707/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
           "id": "HIM",
           "title": "HIM (2025)",
           "poster": "https://play.roarzone.info/emby/Items/146534/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -8101,6 +8119,15 @@
           "title": "Hugo (2011)",
           "poster": "https://play.roarzone.info/emby/Items/147671/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.info/emby/Videos/147671/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
+          "id": "Humint",
+          "title": "Humint (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/171665/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/171665/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.info/"
           }
@@ -11823,6 +11850,15 @@
           }
         },
         {
+          "id": "Murderer Report",
+          "title": "Murderer Report (2025)",
+          "poster": "https://play.roarzone.info/emby/Items/171674/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/171674/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
           "id": "Música",
           "title": "Música (2024)",
           "poster": "https://play.roarzone.info/emby/Items/146205/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -13119,6 +13155,15 @@
           }
         },
         {
+          "id": "Pavane",
+          "title": "Pavane (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/171683/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/171683/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
           "id": "Payback",
           "title": "Payback (1999)",
           "poster": "https://play.roarzone.info/emby/Items/147267/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -13168,6 +13213,15 @@
           "title": "The Pelican Brief (1993)",
           "poster": "https://play.roarzone.info/emby/Items/147200/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.info/emby/Videos/147200/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
+          "id": "Peninsula",
+          "title": "Peninsula (2020)",
+          "poster": "https://play.roarzone.info/emby/Items/171756/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/171756/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.info/"
           }
@@ -17263,6 +17317,15 @@
           "title": "Trail of Justice (2023)",
           "poster": "https://play.roarzone.info/emby/Items/145825/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.info/emby/Videos/145825/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
+          "id": "Train to Busan",
+          "title": "Train to Busan (2016)",
+          "poster": "https://play.roarzone.info/emby/Items/171788/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/171788/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.info/"
           }

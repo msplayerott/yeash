@@ -24,10 +24,28 @@
           }
         },
         {
+          "id": "Djinner Bachcha",
+          "title": "Djinner Bachcha (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/171652/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/171652/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
           "id": "Doa",
           "title": "Doa (2026)",
           "poster": "https://play.roarzone.info/emby/Items/137937/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.info/emby/Videos/137937/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.info/"
+          }
+        },
+        {
+          "id": "Durotto",
+          "title": "Durotto (2026)",
+          "poster": "https://play.roarzone.info/emby/Items/171663/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.info/emby/Videos/171663/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.info/"
           }
