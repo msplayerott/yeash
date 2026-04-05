@@ -3,7 +3,7 @@ import json
 import os
 
 EMBY_CONFIG = {
-    "server": "https://play.roarzone.info",
+    "server": "https://play.roarzone.net",
     "username": "roarzone_guest",
     "password": "",
     "deviceId": "1e58531d-f79d-420e-8d1f-275900e30433"
