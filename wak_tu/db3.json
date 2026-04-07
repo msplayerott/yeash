@@ -6207,6 +6207,15 @@
           }
         },
         {
+          "id": "Feel My Voice",
+          "title": "Feel My Voice (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/173990/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/173990/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Fifty Shades Darker",
           "title": "Fifty Shades Darker (2017)",
           "poster": "https://play.roarzone.net/emby/Items/11840/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -12061,6 +12070,15 @@
           "title": "Nazis at the Center of the Earth (2012)",
           "poster": "https://play.roarzone.net/emby/Items/147607/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/147607/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "The Negotiator",
+          "title": "The Negotiator (2025)",
+          "poster": "https://play.roarzone.net/emby/Items/174018/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/174018/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }

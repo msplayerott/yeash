@@ -2040,6 +2040,15 @@
           }
         },
         {
+          "id": "Bhartha Mahasayulaku Wignyapthi",
+          "title": "Bhartha Mahasayulaku Wignyapthi (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/173963/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/173963/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Bhaskar Oru Rascal",
           "title": "Bhaskar Oru Rascal (2018)",
           "poster": "https://play.roarzone.net/emby/Items/149379/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -11229,6 +11238,15 @@
           }
         },
         {
+          "id": "Rakht Charitra 2",
+          "title": "Rakht Charitra 2 (2010)",
+          "poster": "https://play.roarzone.net/emby/Items/173959/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/173959/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Rakshana",
           "title": "Rakshana (2024)",
           "poster": "https://play.roarzone.net/emby/Items/151368/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -11512,6 +11530,15 @@
           "title": "REPEAT (2022)",
           "poster": "https://play.roarzone.net/emby/Items/150441/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/150441/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Repu Udayam 10 Gantalaku",
+          "title": "Repu Udayam 10 Gantalaku (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/173964/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/173964/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
