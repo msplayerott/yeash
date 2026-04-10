@@ -222,6 +222,15 @@
           }
         },
         {
+          "id": "Bhaggyo Lokkhi",
+          "title": "Bhaggyo Lokkhi (2025)",
+          "poster": "https://play.roarzone.net/emby/Items/176917/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/176917/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Bhalobasa Aaj Kal",
           "title": "Bhalobasa Aaj Kal (2013)",
           "poster": "https://play.roarzone.net/emby/Items/173105/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -775,6 +784,42 @@
           "title": "Guerrilla (2011)",
           "poster": "https://play.roarzone.net/emby/Items/173538/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/173538/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Gyani Goni",
+          "title": "Gyani Goni (2024)",
+          "poster": "https://play.roarzone.net/emby/Items/176913/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/176913/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Gyani Goni 2",
+          "title": "Gyani Goni 2 (2025)",
+          "poster": "https://play.roarzone.net/emby/Items/176912/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/176912/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Gyani Goni 3",
+          "title": "Gyani Goni 3 (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/176908/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/176908/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Gyani Goni 4",
+          "title": "Gyani Goni 4 (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/176907/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/176907/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
