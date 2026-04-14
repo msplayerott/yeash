@@ -3102,6 +3102,15 @@
           }
         },
         {
+          "id": "Dacoit",
+          "title": "Dacoit (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/186488/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/186488/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Dada",
           "title": "Dada (2023)",
           "poster": "https://play.roarzone.net/emby/Items/151001/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -13366,6 +13375,15 @@
           "title": "Suryakantham (2019)",
           "poster": "https://play.roarzone.net/emby/Items/149561/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/149561/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Suryapet Junction",
+          "title": "Suryapet Junction (2025)",
+          "poster": "https://play.roarzone.net/emby/Items/186494/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/186494/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
