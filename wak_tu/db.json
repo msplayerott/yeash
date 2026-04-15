@@ -4155,6 +4155,15 @@
           }
         },
         {
+          "id": "Candy and the Pizza Ggirl",
+          "title": "Candy and the Pizza Ggirl (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/188507/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/188507/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Cape Karma",
           "title": "Cape Karma (2007)",
           "poster": "https://play.roarzone.net/emby/Items/134328/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -25156,6 +25165,15 @@
           "title": "Titu Ambani (2022)",
           "poster": "https://play.roarzone.net/emby/Items/136970/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/136970/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Toaster",
+          "title": "Toaster (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/188502/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/188502/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
