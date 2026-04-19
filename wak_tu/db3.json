@@ -1428,15 +1428,6 @@
           }
         },
         {
-          "id": "Almost Famous",
-          "title": "Almost Famous (2000)",
-          "poster": "https://play.roarzone.net/emby/Items/188820/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/188820/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
           "id": "Along Came a Spider",
           "title": "Along Came a Spider (2001)",
           "poster": "https://play.roarzone.net/emby/Items/189518/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -1567,15 +1558,6 @@
           "title": "American Pie Presents: Band Camp (2005)",
           "poster": "https://play.roarzone.net/emby/Items/11934/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/11934/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "American Psycho",
-          "title": "American Psycho (2000)",
-          "poster": "https://play.roarzone.net/emby/Items/188814/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/188814/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -2355,15 +2337,6 @@
           }
         },
         {
-          "id": "Bait",
-          "title": "Bait (2000)",
-          "poster": "https://play.roarzone.net/emby/Items/188819/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/188819/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
           "id": "Balkan Line",
           "title": "Balkan Line (2019)",
           "poster": "https://play.roarzone.net/emby/Items/144391/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -2607,15 +2580,6 @@
           }
         },
         {
-          "id": "Bedazzled",
-          "title": "Bedazzled (2000)",
-          "poster": "https://play.roarzone.net/emby/Items/188813/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/188813/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
           "id": "The Beekeeper",
           "title": "The Beekeeper (2024)",
           "poster": "https://play.roarzone.net/emby/Items/146194/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -2629,15 +2593,6 @@
           "title": "Before I Wake (2016)",
           "poster": "https://play.roarzone.net/emby/Items/143864/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/143864/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "Before Night Falls",
-          "title": "Before Night Falls (2000)",
-          "poster": "https://play.roarzone.net/emby/Items/188810/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/188810/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -2683,15 +2638,6 @@
           "title": "Bereavement (2010)",
           "poster": "https://play.roarzone.net/emby/Items/147508/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/147508/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "Best in Show",
-          "title": "Best in Show (2000)",
-          "poster": "https://play.roarzone.net/emby/Items/188811/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/188811/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -2769,15 +2715,6 @@
           }
         },
         {
-          "id": "Big Momma's House",
-          "title": "Big Momma's House (2000)",
-          "poster": "https://play.roarzone.net/emby/Items/188817/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/188817/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
           "id": "Big Sky River",
           "title": "Big Sky River (2022)",
           "poster": "https://play.roarzone.net/emby/Items/145353/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -2791,15 +2728,6 @@
           "title": "The Bikeriders (2024)",
           "poster": "https://play.roarzone.net/emby/Items/145801/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/145801/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "Billy Elliot",
-          "title": "Billy Elliot (2000)",
-          "poster": "https://play.roarzone.net/emby/Items/188812/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/188812/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -3138,15 +3066,6 @@
           }
         },
         {
-          "id": "Boiler Room",
-          "title": "Boiler Room (2000)",
-          "poster": "https://play.roarzone.net/emby/Items/188821/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/188821/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
           "id": "The Bone Collector",
           "title": "The Bone Collector (1999)",
           "poster": "https://play.roarzone.net/emby/Items/147586/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -3430,15 +3349,6 @@
           "title": "Bring Her Back (2025)",
           "poster": "https://play.roarzone.net/emby/Items/146529/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/146529/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "Bring It On",
-          "title": "Bring It On (2000)",
-          "poster": "https://play.roarzone.net/emby/Items/188816/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/188816/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -3781,15 +3691,6 @@
           "title": "Charlie and the Chocolate Factory (2005)",
           "poster": "https://play.roarzone.net/emby/Items/147646/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/147646/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "Charlie's Angels",
-          "title": "Charlie's Angels (2000)",
-          "poster": "https://play.roarzone.net/emby/Items/188815/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/188815/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -13760,15 +13661,6 @@
         {
           "id": "Planet of the Apes",
           "title": "Planet of the Apes (2001)",
-          "poster": "https://play.roarzone.net/emby/Items/189526/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/189526/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "Planet of the Apes",
-          "title": "Planet of the Apes (2001)",
           "poster": "https://play.roarzone.net/emby/Items/12142/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/12142/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
@@ -15247,15 +15139,6 @@
           "title": "Rush Hour (1998)",
           "poster": "https://play.roarzone.net/emby/Items/12219/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/12219/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "Rush Hour 2",
-          "title": "Rush Hour 2 (2001)",
-          "poster": "https://play.roarzone.net/emby/Items/189521/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/189521/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -18325,15 +18208,6 @@
           "title": "Vanguard (2020)",
           "poster": "https://play.roarzone.net/emby/Items/144602/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/144602/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "Vanilla Sky",
-          "title": "Vanilla Sky (2001)",
-          "poster": "https://play.roarzone.net/emby/Items/189523/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/189523/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
