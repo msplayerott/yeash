@@ -16467,6 +16467,15 @@
           }
         },
         {
+          "id": "Nukkad Naatak",
+          "title": "Nukkad Naatak (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/190615/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190615/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "O Pushpa I Hate Tears",
           "title": "O Pushpa I Hate Tears (2020)",
           "poster": "https://play.roarzone.net/emby/Items/136483/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -18053,8 +18062,8 @@
         {
           "id": "Raat Akeli Hai - The Bansal Murders",
           "title": "Raat Akeli Hai - The Bansal Murders (2025)",
-          "poster": "https://play.roarzone.net/emby/Items/137769/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/137769/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "poster": "https://play.roarzone.net/emby/Items/190604/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190604/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
