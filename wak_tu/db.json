@@ -9098,8 +9098,8 @@
         {
           "id": "Happy Patel: Khatarnak Jasoos",
           "title": "Happy Patel: Khatarnak Jasoos (2026)",
-          "poster": "https://play.roarzone.net/emby/Items/137908/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/137908/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "poster": "https://play.roarzone.net/emby/Items/172227/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/172227/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -10666,6 +10666,15 @@
           "title": "Jab Harry Met Sejal (2017)",
           "poster": "https://play.roarzone.net/emby/Items/135590/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/135590/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Jab Khuli Kitaab",
+          "title": "Jab Khuli Kitaab (2024)",
+          "poster": "https://play.roarzone.net/emby/Items/190543/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190543/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }

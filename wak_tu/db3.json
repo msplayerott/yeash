@@ -5435,8 +5435,8 @@
         {
           "id": "Eat Pray Bark",
           "title": "Eat Pray Bark (2026)",
-          "poster": "https://play.roarzone.net/emby/Items/172231/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/172231/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "poster": "https://play.roarzone.net/emby/Items/190533/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190533/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -6299,8 +6299,8 @@
         {
           "id": "Feel My Voice",
           "title": "Feel My Voice (2026)",
-          "poster": "https://play.roarzone.net/emby/Items/173990/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/173990/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "poster": "https://play.roarzone.net/emby/Items/190531/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190531/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
