@@ -681,6 +681,15 @@
           }
         },
         {
+          "id": "18th Rose",
+          "title": "18th Rose (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/190507/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190507/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "19.Avengers - Infinity War",
           "title": "19.Avengers - Infinity War (2018)",
           "poster": "https://play.roarzone.net/emby/Items/11757/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -4272,6 +4281,15 @@
           }
         },
         {
+          "id": "Dancing Village: The Curse Begins",
+          "title": "Dancing Village: The Curse Begins (2024)",
+          "poster": "https://play.roarzone.net/emby/Items/190483/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190483/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Dangerous",
           "title": "Dangerous (2021)",
           "poster": "https://play.roarzone.net/emby/Items/144908/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -4663,6 +4681,15 @@
           "title": "The Devil on Trial (2023)",
           "poster": "https://play.roarzone.net/emby/Items/145860/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/145860/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "The Devil's Bride",
+          "title": "The Devil's Bride (2025)",
+          "poster": "https://play.roarzone.net/emby/Items/190344/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190344/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -5482,6 +5509,15 @@
           "title": "Elevation (2024)",
           "poster": "https://play.roarzone.net/emby/Items/146258/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/146258/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "The Elixir",
+          "title": "The Elixir (2025)",
+          "poster": "https://play.roarzone.net/emby/Items/190394/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190394/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -7964,8 +8000,8 @@
         {
           "id": "The Hitman's Bodyguard",
           "title": "The Hitman's Bodyguard (2017)",
-          "poster": "https://play.roarzone.net/emby/Items/144024/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/144024/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "poster": "https://play.roarzone.net/emby/Items/190505/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190505/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -12313,6 +12349,15 @@
           "title": "Night at the Museum: Secret of the Tomb (2014)",
           "poster": "https://play.roarzone.net/emby/Items/147271/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/147271/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Night Bus",
+          "title": "Night Bus (2017)",
+          "poster": "https://play.roarzone.net/emby/Items/190319/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190319/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -17538,6 +17583,15 @@
           }
         },
         {
+          "id": "The Train of Death",
+          "title": "The Train of Death (2024)",
+          "poster": "https://play.roarzone.net/emby/Items/190361/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190361/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Train to Busan",
           "title": "Train to Busan (2016)",
           "poster": "https://play.roarzone.net/emby/Items/171788/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -18325,6 +18379,15 @@
           "title": "Villain (2020)",
           "poster": "https://play.roarzone.net/emby/Items/144656/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/144656/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Vina: Before 7 Days",
+          "title": "Vina: Before 7 Days (2024)",
+          "poster": "https://play.roarzone.net/emby/Items/190393/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190393/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }

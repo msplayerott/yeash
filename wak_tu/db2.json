@@ -13407,6 +13407,15 @@
           }
         },
         {
+          "id": "Suyodhana",
+          "title": "Suyodhana (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/190294/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190294/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Swamy Ra Ra",
           "title": "Swamy Ra Ra (2013)",
           "poster": "https://play.roarzone.net/emby/Items/148482/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -14397,6 +14406,15 @@
           }
         },
         {
+          "id": "Ustaad Bhagat Singh",
+          "title": "Ustaad Bhagat Singh (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/190293/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190293/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Ustad Hotel",
           "title": "Ustad Hotel (2012)",
           "poster": "https://play.roarzone.net/emby/Items/148353/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -14527,6 +14545,15 @@
           "title": "Vakeel Saab (2021)",
           "poster": "https://play.roarzone.net/emby/Items/150055/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/150055/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Valathu Vashathe Kallan",
+          "title": "Valathu Vashathe Kallan (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/190299/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190299/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -15427,6 +15454,15 @@
           "title": "Your Name. (2016)",
           "poster": "https://play.roarzone.net/emby/Items/149189/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/149189/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Youth",
+          "title": "Youth (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/190300/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190300/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
