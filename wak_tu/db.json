@@ -3417,6 +3417,15 @@
           }
         },
         {
+          "id": "Bhooth Bangla",
+          "title": "Bhooth Bangla (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/190220/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190220/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Bhoothnath",
           "title": "Bhoothnath (2008)",
           "poster": "https://play.roarzone.net/emby/Items/132172/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -6578,8 +6587,8 @@
         {
           "id": "Do Deewane Seher Mein",
           "title": "Do Deewane Seher Mein (2026)",
-          "poster": "https://play.roarzone.net/emby/Items/137914/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/137914/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "poster": "https://play.roarzone.net/emby/Items/190198/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190198/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -14345,8 +14354,8 @@
         {
           "id": "Main Woh Aur Fuji",
           "title": "Main Woh Aur Fuji (2026)",
-          "poster": "https://play.roarzone.net/emby/Items/186503/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/186503/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "poster": "https://play.roarzone.net/emby/Items/190290/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190290/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }

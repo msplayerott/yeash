@@ -978,6 +978,15 @@
           }
         },
         {
+          "id": "180",
+          "title": "180 (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/190232/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190232/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "211",
           "title": "211 (2018)",
           "poster": "https://play.roarzone.net/emby/Items/144213/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -2359,6 +2368,15 @@
           "title": "Ballerina (2025)",
           "poster": "https://play.roarzone.net/emby/Items/146585/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/146585/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Balls Up",
+          "title": "Balls Up (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/190242/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190242/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -17200,6 +17218,15 @@
           "title": "Those Who Wish Me Dead (2021)",
           "poster": "https://play.roarzone.net/emby/Items/144989/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/144989/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Thrash",
+          "title": "Thrash (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/190282/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/190282/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
