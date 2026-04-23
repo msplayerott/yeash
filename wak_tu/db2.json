@@ -249,15 +249,6 @@
           }
         },
         {
-          "id": "45",
-          "title": "45 (2025)",
-          "poster": "https://play.roarzone.net/emby/Items/151797/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/151797/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
           "id": "90 ML",
           "title": "90 ML (2019)",
           "poster": "https://play.roarzone.net/emby/Items/149611/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
