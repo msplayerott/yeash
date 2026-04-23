@@ -2958,6 +2958,15 @@
           }
         },
         {
+          "id": "Behind the Mask of Zorro",
+          "title": "Behind the Mask of Zorro (1965)",
+          "poster": "https://play.roarzone.net/emby/Items/130837/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/130837/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Behind Veils",
           "title": "Behind Veils (2023)",
           "poster": "https://play.roarzone.net/emby/Items/137347/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -3885,6 +3894,15 @@
           }
         },
         {
+          "id": "Bose: The Forgotten Hero",
+          "title": "Bose: The Forgotten Hero (2005)",
+          "poster": "https://play.roarzone.net/emby/Items/129647/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/129647/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Boss",
           "title": "Boss (2013)",
           "poster": "https://play.roarzone.net/emby/Items/134623/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -3930,8 +3948,8 @@
           }
         },
         {
-          "id": "Brigitte Bardot, The Oath Made to Animals",
-          "title": "Brigitte Bardot, The Oath Made to Animals (2019)",
+          "id": "Brigitte Bardot, rebel with a cause",
+          "title": "Brigitte Bardot, rebel with a cause (2019)",
           "poster": "https://play.roarzone.net/emby/Items/130964/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/130964/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
@@ -5551,7 +5569,7 @@
         },
         {
           "id": "Darr",
-          "title": "Darr (1992)",
+          "title": "Darr (1993)",
           "poster": "https://play.roarzone.net/emby/Items/130297/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/130297/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
@@ -7584,8 +7602,8 @@
           }
         },
         {
-          "id": "Fate/kaleid Liner PRISMA☆ILLYA: Vow in the Snow",
-          "title": "Fate/kaleid Liner PRISMA☆ILLYA: Vow in the Snow (2017)",
+          "id": "Fate/kaleid liner Prisma☆Illya: Vow in the Snow",
+          "title": "Fate/kaleid liner Prisma☆Illya: Vow in the Snow (2017)",
           "poster": "https://play.roarzone.net/emby/Items/130943/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/130943/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
@@ -13292,15 +13310,6 @@
         {
           "id": "Lal Baadshah",
           "title": "Lal Baadshah (1999)",
-          "poster": "https://play.roarzone.net/emby/Items/130260/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/130260/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "Lal Baadshah",
-          "title": "Lal Baadshah (1999)",
           "poster": "https://play.roarzone.net/emby/Items/130261/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/130261/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
@@ -13402,15 +13411,6 @@
           "title": "Le Lotta (2017)",
           "poster": "https://play.roarzone.net/emby/Items/135626/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/135626/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "Le Serment des Hitler",
-          "title": "Le Serment des Hitler",
-          "poster": "https://play.roarzone.net/emby/Items/131057/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/131057/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -16278,15 +16278,6 @@
           }
         },
         {
-          "id": "Netaji Subhas Chandra Bose: The Forgotten Hero",
-          "title": "Netaji Subhas Chandra Bose: The Forgotten Hero (2005)",
-          "poster": "https://play.roarzone.net/emby/Items/129647/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/129647/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
           "id": "NH10",
           "title": "NH10 (2015)",
           "poster": "https://play.roarzone.net/emby/Items/134965/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -16507,15 +16498,6 @@
           "title": "The Oath of Tobruk (2012)",
           "poster": "https://play.roarzone.net/emby/Items/131172/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/131172/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "Oath of Zorro",
-          "title": "Oath of Zorro (1965)",
-          "poster": "https://play.roarzone.net/emby/Items/130837/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/130837/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -16846,7 +16828,7 @@
         },
         {
           "id": "Paap_converted_reencoded",
-          "title": "Paap_converted_reencoded",
+          "title": "Paap_converted_reencoded (2003)",
           "poster": "https://play.roarzone.net/emby/Items/130824/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/130824/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
@@ -16867,6 +16849,15 @@
           "title": "Paathshaala (2010)",
           "poster": "https://play.roarzone.net/emby/Items/132555/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/132555/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "The Pact",
+          "title": "The Pact (2013)",
+          "poster": "https://play.roarzone.net/emby/Items/131057/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/131057/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -25030,6 +25021,15 @@
           "title": "The Theory of Everything (2014)",
           "poster": "https://play.roarzone.net/emby/Items/133895/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/133895/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "The Third Wish",
+          "title": "The Third Wish (2005)",
+          "poster": "https://play.roarzone.net/emby/Items/130260/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/130260/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
