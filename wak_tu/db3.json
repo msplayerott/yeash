@@ -5982,6 +5982,15 @@
           }
         },
         {
+          "id": "Eye for an Eye",
+          "title": "Eye for an Eye (2025)",
+          "poster": "https://play.roarzone.net/emby/Items/191773/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191773/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Eye for an Eye 2",
           "title": "Eye for an Eye 2 (2024)",
           "poster": "https://play.roarzone.net/emby/Items/145980/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -17792,8 +17801,8 @@
         {
           "id": "TRON: Ares",
           "title": "TRON: Ares (2025)",
-          "poster": "https://play.roarzone.net/emby/Items/146549/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/146549/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "poster": "https://play.roarzone.net/emby/Items/191787/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191787/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -17801,8 +17810,8 @@
         {
           "id": "TRON: Legacy",
           "title": "TRON: Legacy (2010)",
-          "poster": "https://play.roarzone.net/emby/Items/147257/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/147257/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "poster": "https://play.roarzone.net/emby/Items/191788/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191788/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
