@@ -7134,6 +7134,15 @@
           }
         },
         {
+          "id": "GOAT",
+          "title": "GOAT (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/191704/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191704/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "The Godfather",
           "title": "The Godfather (1972)",
           "poster": "https://play.roarzone.net/emby/Items/11805/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
