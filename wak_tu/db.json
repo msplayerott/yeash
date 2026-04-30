@@ -8268,6 +8268,15 @@
           }
         },
         {
+          "id": "Ghajinikanth",
+          "title": "Ghajinikanth (2018)",
+          "poster": "https://play.roarzone.net/emby/Items/191805/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191805/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Ghamandee",
           "title": "Ghamandee (2009)",
           "poster": "https://play.roarzone.net/emby/Items/3617/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -11368,6 +11377,15 @@
           "title": "Jung (1996)",
           "poster": "https://play.roarzone.net/emby/Items/130289/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/130289/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Junga",
+          "title": "Junga (2018)",
+          "poster": "https://play.roarzone.net/emby/Items/191807/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191807/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -18564,6 +18582,15 @@
           }
         },
         {
+          "id": "Rangasthalam",
+          "title": "Rangasthalam (2018)",
+          "poster": "https://play.roarzone.net/emby/Items/191806/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191806/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Rangbaaz: The Bihar Chapter",
           "title": "Rangbaaz: The Bihar Chapter (2025)",
           "poster": "https://play.roarzone.net/emby/Items/137853/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -25107,6 +25134,15 @@
           }
         },
         {
+          "id": "Tholi Prema",
+          "title": "Tholi Prema (2018)",
+          "poster": "https://play.roarzone.net/emby/Items/191814/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191814/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Thugs of Hindostan",
           "title": "Thugs of Hindostan (2018)",
           "poster": "https://play.roarzone.net/emby/Items/135849/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -25147,6 +25183,15 @@
           "title": "Tigers (2014)",
           "poster": "https://play.roarzone.net/emby/Items/135873/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/135873/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Tik Tik Tik",
+          "title": "Tik Tik Tik (2018)",
+          "poster": "https://play.roarzone.net/emby/Items/191812/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191812/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -25300,6 +25345,15 @@
           "title": "Tottaa Pataaka Item Maal (2019)",
           "poster": "https://play.roarzone.net/emby/Items/135976/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/135976/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Touch Chesi Chudu",
+          "title": "Touch Chesi Chudu (2018)",
+          "poster": "https://play.roarzone.net/emby/Items/191811/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191811/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -25579,6 +25633,15 @@
           "title": "Typecaste (2017)",
           "poster": "https://play.roarzone.net/emby/Items/135627/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/135627/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "U Turn",
+          "title": "U Turn (2016)",
+          "poster": "https://play.roarzone.net/emby/Items/191808/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191808/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
