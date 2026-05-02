@@ -11805,6 +11805,15 @@
           }
         },
         {
+          "id": "Mission: Possible",
+          "title": "Mission: Possible (2021)",
+          "poster": "https://play.roarzone.net/emby/Items/191885/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191885/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Mom",
           "title": "Mom (2025)",
           "poster": "https://play.roarzone.net/emby/Items/146240/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -12628,6 +12637,15 @@
           "title": "The Noel Diary (2022)",
           "poster": "https://play.roarzone.net/emby/Items/145283/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/145283/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Noise",
+          "title": "Noise (2025)",
+          "poster": "https://play.roarzone.net/emby/Items/191922/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191922/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -14136,6 +14154,15 @@
           }
         },
         {
+          "id": "Project Y",
+          "title": "Project Y (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/191863/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191863/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Prometheus",
           "title": "Prometheus (2012)",
           "poster": "https://play.roarzone.net/emby/Items/147580/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -14752,6 +14779,15 @@
           "title": "Repo Men (2010)",
           "poster": "https://play.roarzone.net/emby/Items/147477/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/147477/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Reported Missing: The Murder of Danielle Jones",
+          "title": "Reported Missing: The Murder of Danielle Jones (2023)",
+          "poster": "https://play.roarzone.net/emby/Items/191960/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191960/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -18010,6 +18046,15 @@
           "title": "Uglies (2024)",
           "poster": "https://play.roarzone.net/emby/Items/146260/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/146260/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "The Ugly Stepsister",
+          "title": "The Ugly Stepsister (2025)",
+          "poster": "https://play.roarzone.net/emby/Items/191936/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/191936/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
