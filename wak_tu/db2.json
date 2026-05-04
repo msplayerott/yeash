@@ -10518,6 +10518,15 @@
           }
         },
         {
+          "id": "The Patriot",
+          "title": "The Patriot (2000)",
+          "poster": "https://play.roarzone.net/emby/Items/192073/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192073/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Pattathu Arasan",
           "title": "Pattathu Arasan (2022)",
           "poster": "https://play.roarzone.net/emby/Items/150427/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
