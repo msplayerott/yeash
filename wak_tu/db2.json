@@ -708,6 +708,15 @@
           }
         },
         {
+          "id": "Agnyathavasi",
+          "title": "Agnyathavasi (2025)",
+          "poster": "https://play.roarzone.net/emby/Items/192109/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192109/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Aho Vikramaarka!",
           "title": "Aho Vikramaarka! (2024)",
           "poster": "https://play.roarzone.net/emby/Items/151435/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -10954,6 +10963,15 @@
           "title": "Princess Mononoke (1997)",
           "poster": "https://play.roarzone.net/emby/Items/150461/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/150461/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Psycho",
+          "title": "Psycho (1960)",
+          "poster": "https://play.roarzone.net/emby/Items/192122/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192122/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
