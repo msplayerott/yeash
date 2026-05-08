@@ -14748,6 +14748,15 @@
           }
         },
         {
+          "id": "Remarkably Bright Creatures",
+          "title": "Remarkably Bright Creatures (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/192362/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192362/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Remember Me",
           "title": "Remember Me (2010)",
           "poster": "https://play.roarzone.net/emby/Items/147254/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
