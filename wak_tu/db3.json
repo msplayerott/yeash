@@ -10185,6 +10185,15 @@
           }
         },
         {
+          "id": "Lake George",
+          "title": "Lake George (2024)",
+          "poster": "https://play.roarzone.net/emby/Items/192388/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192388/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Lake Placid vs. Anaconda",
           "title": "Lake Placid vs. Anaconda (2015)",
           "poster": "https://play.roarzone.net/emby/Items/147509/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -12583,6 +12592,15 @@
           "title": "No Hard Feelings (2023)",
           "poster": "https://play.roarzone.net/emby/Items/145721/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/145721/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "No Place to Be Single",
+          "title": "No Place to Be Single (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/192400/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192400/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
