@@ -6270,6 +6270,15 @@
           }
         },
         {
+          "id": "Kaalidas 2",
+          "title": "Kaalidas 2 (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/192464/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192464/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Kaantha",
           "title": "Kaantha (2025)",
           "poster": "https://play.roarzone.net/emby/Items/151833/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
