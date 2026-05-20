@@ -925,7 +925,7 @@
         },
         {
           "id": "Adventures of Ali-Baba and the Forty Thieves",
-          "title": "Adventures of Ali-Baba and the Forty Thieves (1979)",
+          "title": "Adventures of Ali-Baba and the Forty Thieves (1980)",
           "poster": "https://play.roarzone.net/emby/Items/1409/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/1409/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
@@ -10108,6 +10108,15 @@
           "title": "IB 71 (2023)",
           "poster": "https://play.roarzone.net/emby/Items/137322/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/137322/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "ICC Cricket World Cup 2011 - Official Highlights",
+          "title": "ICC Cricket World Cup 2011 - Official Highlights (2011)",
+          "poster": "https://play.roarzone.net/emby/Items/3310/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/3310/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -26623,15 +26632,6 @@
           "title": "Woh Lamhe (2006)",
           "poster": "https://play.roarzone.net/emby/Items/131917/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/131917/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "headers": {
-            "Referer": "https://play.roarzone.net/"
-          }
-        },
-        {
-          "id": "WorldCup",
-          "title": "WorldCup (2011)",
-          "poster": "https://play.roarzone.net/emby/Items/3310/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/3310/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
