@@ -1779,6 +1779,15 @@
           }
         },
         {
+          "id": "Prince: Once Upon a Time in Dhaka",
+          "title": "Prince: Once Upon a Time in Dhaka (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/192598/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192598/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Priyo Maloti",
           "title": "Priyo Maloti (2025)",
           "poster": "https://play.roarzone.net/emby/Items/174196/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -1891,6 +1900,15 @@
           "title": "Rajkumar (2024)",
           "poster": "https://play.roarzone.net/emby/Items/174254/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/174254/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Rakkhosh",
+          "title": "Rakkhosh (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/192595/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192595/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
