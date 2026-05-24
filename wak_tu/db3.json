@@ -10167,6 +10167,15 @@
           }
         },
         {
+          "id": "Ladies First",
+          "title": "Ladies First (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/192798/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192798/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Lady Chatterley's Lover",
           "title": "Lady Chatterley's Lover (2022)",
           "poster": "https://play.roarzone.net/emby/Items/145270/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -10918,6 +10927,15 @@
           "title": "Loving (2016)",
           "poster": "https://play.roarzone.net/emby/Items/143872/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/143872/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Luca",
+          "title": "Luca (2021)",
+          "poster": "https://play.roarzone.net/emby/Items/192872/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192872/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -15047,8 +15065,8 @@
         {
           "id": "Riders of Justice",
           "title": "Riders of Justice (2020)",
-          "poster": "https://play.roarzone.net/emby/Items/144661/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
-          "stream_url": "https://play.roarzone.net/emby/Videos/144661/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "poster": "https://play.roarzone.net/emby/Items/192835/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192835/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
@@ -17592,6 +17610,15 @@
           }
         },
         {
+          "id": "Tom Clancy's Jack Ryan: Ghost War",
+          "title": "Tom Clancy's Jack Ryan: Ghost War (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/192857/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192857/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Tom Clancy's Without Remorse",
           "title": "Tom Clancy's Without Remorse (2021)",
           "poster": "https://play.roarzone.net/emby/Items/144984/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -18055,6 +18082,15 @@
           "title": "The Twilight Saga: New Moon (2009)",
           "poster": "https://play.roarzone.net/emby/Items/12138/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/12138/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "Twinless",
+          "title": "Twinless (2025)",
+          "poster": "https://play.roarzone.net/emby/Items/192822/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192822/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }
