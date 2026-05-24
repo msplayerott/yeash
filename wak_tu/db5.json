@@ -285,6 +285,15 @@
           }
         },
         {
+          "id": "Bonolota Express",
+          "title": "Bonolota Express (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/192778/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192778/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Booking",
           "title": "Booking (2024)",
           "poster": "https://play.roarzone.net/emby/Items/173167/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
