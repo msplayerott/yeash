@@ -12057,6 +12057,15 @@
           }
         },
         {
+          "id": "Kartavya",
+          "title": "Kartavya (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/192900/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192900/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Karthik Calling Karthik",
           "title": "Karthik Calling Karthik (2010)",
           "poster": "https://play.roarzone.net/emby/Items/132804/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
@@ -24571,6 +24580,15 @@
           "title": "Sworn Virgin (2015)",
           "poster": "https://play.roarzone.net/emby/Items/130988/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "stream_url": "https://play.roarzone.net/emby/Videos/130988/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
+          "id": "System",
+          "title": "System (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/192899/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192899/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
           "headers": {
             "Referer": "https://play.roarzone.net/"
           }

@@ -10428,6 +10428,15 @@
           }
         },
         {
+          "id": "Lee Cronin's The Mummy",
+          "title": "Lee Cronin's The Mummy (2026)",
+          "poster": "https://play.roarzone.net/emby/Items/192909/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "stream_url": "https://play.roarzone.net/emby/Videos/192909/stream?static=true&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
+          "headers": {
+            "Referer": "https://play.roarzone.net/"
+          }
+        },
+        {
           "id": "Legend",
           "title": "Legend (2015)",
           "poster": "https://play.roarzone.net/emby/Items/147380/Images/Primary?quality=90&api_key=8be07cb4fc4d4111aae2ac42e1536e06",
