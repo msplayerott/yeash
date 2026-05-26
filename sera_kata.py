@@ -26,11 +26,11 @@ def clean_title(name):
     return re.sub(r'\s+', ' ', name).strip()
 
 def fetch_emby_series(parent_id, category_name, save_filename):
-    folder_name = "wal_fu"
+    folder_name = "wak_fu"
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
         
-    print(f"Mandamina Emby Series: {category_name} (ID: {parent_id})")
+    print(f"Mandamina Emby Series: {category_name} (ID: {parent_id}) -> Folder: {folder_name}")
     
     session = requests.Session()
     
