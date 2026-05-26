@@ -4,6 +4,10 @@ import os
 import random
 import re
 from datetime import datetime
+import urllib3
+
+# Disable SSL warnings to prevent log spamming which slows down GitHub Actions
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 EMBY_CONFIG = {
     "server": "https://play.roarzone.net",
@@ -37,8 +41,11 @@ def fetch_ott_data():
     folder_name = "wak_tu"
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
+        
+    # Use Session for faster networking
+    session = requests.Session()
     try:
-        response = requests.get(main_url, timeout=15)
+        response = session.get(main_url, timeout=15)
         main_data = response.json()
         if "ott_platforms" in main_data:
             for platform in main_data["ott_platforms"]:
@@ -50,7 +57,7 @@ def fetch_ott_data():
                 file_save_name = p_name.replace(" ", "_")
                 print(f"Mandamina OTT: {p_name}")
                 try:
-                    p_response = requests.get(json_url, timeout=15)
+                    p_response = session.get(json_url, timeout=15)
                     content_data = p_response.json()
                     if "categories" in content_data:
                         for category in content_data["categories"]:
@@ -72,13 +79,14 @@ def fetch_emby_movies(parent_id, platform_name, save_filename):
         os.makedirs(folder_name)
     print(f"Mandamina Emby: {platform_name} (ID: {parent_id})")
     
+    session = requests.Session()
     auth_url = f"{EMBY_CONFIG['server']}/emby/Users/AuthenticateByName"
     auth_header = f'MediaBrowser Client="Emby Web", Device="GitHub Action", DeviceId="{EMBY_CONFIG["deviceId"]}", Version="4.9.1.80"'
     payload = {"Username": EMBY_CONFIG['username'], "Pw": EMBY_CONFIG['password']}
     headers = {"Content-Type": "application/json", "X-Emby-Authorization": auth_header}
     
     try:
-        auth_res = requests.post(auth_url, json=payload, headers=headers, timeout=15, verify=False)
+        auth_res = session.post(auth_url, json=payload, headers=headers, timeout=15, verify=False)
         auth_data = auth_res.json()
         
         if "AccessToken" in auth_data:
@@ -94,7 +102,7 @@ def fetch_emby_movies(parent_id, platform_name, save_filename):
                 "api_key": token
             }
             
-            items_res = requests.get(items_url, params=params, timeout=20, verify=False)
+            items_res = session.get(items_url, params=params, timeout=20, verify=False)
             items_data = items_res.json()
             
             if "Items" in items_data:
@@ -166,13 +174,16 @@ def fetch_emby_series(parent_id, category_name, save_filename):
         
     print(f"Mandamina Emby Series: {category_name} (ID: {parent_id})")
     
+    # Use Session for persistent connections across hundreds of requests
+    session = requests.Session()
+    
     auth_url = f"{EMBY_CONFIG['server']}/emby/Users/AuthenticateByName"
     auth_header = f'MediaBrowser Client="PHP Script", Device="Web Server", DeviceId="{EMBY_CONFIG["deviceId"]}", Version="1.0.0"'
     payload = {"Username": EMBY_CONFIG['username'], "Pw": EMBY_CONFIG['password']}
     headers = {"Content-Type": "application/json", "X-Emby-Authorization": auth_header}
     
     try:
-        auth_res = requests.post(auth_url, json=payload, headers=headers, timeout=15, verify=False)
+        auth_res = session.post(auth_url, json=payload, headers=headers, timeout=15, verify=False)
         auth_data = auth_res.json()
         
         if "AccessToken" in auth_data:
@@ -188,7 +199,7 @@ def fetch_emby_series(parent_id, category_name, save_filename):
             }
             
             items_url = f"{EMBY_CONFIG['server']}/emby/Users/{user_id}/Items"
-            series_res = requests.get(items_url, params=params, timeout=20, verify=False)
+            series_res = session.get(items_url, params=params, timeout=20, verify=False)
             series_data = series_res.json()
             
             if "Items" in series_data:
@@ -205,7 +216,7 @@ def fetch_emby_series(parent_id, category_name, save_filename):
                     seasons = []
                     seasons_url = f"{EMBY_CONFIG['server']}/emby/Shows/{series_id}/Seasons"
                     s_params = {"UserId": user_id, "api_key": token}
-                    s_res = requests.get(seasons_url, params=s_params, timeout=15, verify=False)
+                    s_res = session.get(seasons_url, params=s_params, timeout=15, verify=False)
                     s_data = s_res.json()
                     
                     if "Items" in s_data:
@@ -219,7 +230,7 @@ def fetch_emby_series(parent_id, category_name, save_filename):
                                 "Fields": "PrimaryImageTag,Overview,RunTimeTicks",
                                 "api_key": token
                             }
-                            e_res = requests.get(episodes_url, params=e_params, timeout=20, verify=False)
+                            e_res = session.get(episodes_url, params=e_params, timeout=20, verify=False)
                             e_data = e_res.json()
                             
                             episodes = []
