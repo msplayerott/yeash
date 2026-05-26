@@ -162,4 +162,4 @@ def fetch_emby_series(parent_id, category_name, save_filename):
         print(f"Hadisoana ho an'ny {category_name}: {e}")
 
 if __name__ == "__main__":
-    fetch_emby_series("89535", "Bengali", "series_bengali.json")
+    fetch_emby_series("89535", "Bengali", "bogli.json")
