@@ -153,4 +153,5 @@ if __name__ == "__main__":
     fetch_emby_movies("7660", "South India", "db2.json")
     fetch_emby_movies("9031", "Hollywood", "db3.json")
     fetch_emby_movies("137971", "Kolkata", "db4.json")
+    fetch_emby_movies("141242", "Hindi Special", "db6.json")
     fetch_emby_movies("137931", "Bangla", "db5.json")
