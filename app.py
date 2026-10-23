@@ -8,7 +8,7 @@ EMBY_CONFIG = {
     "server": "https://play.roarzone.net",
     "username": "roarzone_guest",
     "password": "",
-    "deviceId": "1e58531d-f79d-420e-8d1f-275900e30433"
+    "deviceId": "a4b4c34c-ac21-498b-8b1b-1d2b8f822dbb"
 }
 
 def format_date(date_str):
