@@ -149,9 +149,10 @@ def fetch_emby_movies(parent_id, platform_name, save_filename):
 
 if __name__ == "__main__":
     fetch_ott_data()
-    fetch_emby_movies("3", "Bollywood", "db.json")
-    fetch_emby_movies("7660", "South India", "db2.json")
-    fetch_emby_movies("9031", "Hollywood", "db3.json")
-    fetch_emby_movies("137971", "Kolkata", "db4.json")
-    fetch_emby_movies("141242", "Hindi Special", "db6.json")
-    fetch_emby_movies("137931", "Bangla", "db5.json")
+    fetch_emby_movies("264103", "Bollywood", "db.json")
+    fetch_emby_movies("268386", "South India", "db2.json")
+    fetch_emby_movies("276190", "Hollywood", "db3.json")
+    fetch_emby_movies("275358", "Foreign", "db4.json")
+    fetch_emby_movies("268390", "Spanish", "db6.json")
+    fetch_emby_movies("329966", "Animation", "db7.json")
+    fetch_emby_movies("268388", "Korean", "db5.json")
