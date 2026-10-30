@@ -7,7 +7,7 @@
       "Drama"
     ],
     "imdbRating": "5.6",
-    "imdbVotes": 7967,
+    "imdbVotes": 7882,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399053/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "24 Oct 2009",
@@ -30,7 +30,7 @@
       "Drama"
     ],
     "imdbRating": "5.9",
-    "imdbVotes": 8326,
+    "imdbVotes": 7869,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399054/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "28 Feb 2019",
@@ -53,7 +53,7 @@
       "Horror"
     ],
     "imdbRating": "5.6",
-    "imdbVotes": 7586,
+    "imdbVotes": 7336,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399085/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "16 Jan 2020",
@@ -75,7 +75,7 @@
       "Drama"
     ],
     "imdbRating": "7.2",
-    "imdbVotes": 9309,
+    "imdbVotes": 9442,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399106/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "05 Sep 2024",
@@ -98,7 +98,7 @@
       "Drama"
     ],
     "imdbRating": "5.6",
-    "imdbVotes": 7809,
+    "imdbVotes": 7785,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399058/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "29 Mar 2022",
@@ -121,7 +121,7 @@
       "Romance"
     ],
     "imdbRating": "8.2",
-    "imdbVotes": 10932,
+    "imdbVotes": 11052,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/467603/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "03 Jun 2026",
@@ -140,12 +140,36 @@
     "category": "Spanish",
     "director": "Carles Torrens",
     "genre": [
+      "Action",
+      "Thriller",
+      "Horror"
+    ],
+    "imdbRating": "9.0",
+    "imdbVotes": 11361,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/467780/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
+    "releaseDate": "08 Oct 2026",
+    "sliderUrl": "https://play.roarzone.net/emby/Items/467780/Images/Backdrop/0?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
+    "status": "on",
+    "storyline": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+    "streamUrl": "https://play.roarzone.net/emby/Videos/467780/stream?static=true&api_key=61df69e5210d44b68b2ba88311293f00",
+    "title": "Apocalypse Z: New World (2026)",
+    "headers": {
+      "referer": "https://play.roarzone.net/",
+      "origin": "",
+      "user_agent": ""
+    }
+  },
+  {
+    "category": "Spanish",
+    "director": "Carles Torrens",
+    "genre": [
       "Drama",
       "Action",
       "Horror"
     ],
     "imdbRating": "6.1",
-    "imdbVotes": 7967,
+    "imdbVotes": 8250,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399059/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "03 Oct 2024",
@@ -169,7 +193,7 @@
       "Crime"
     ],
     "imdbRating": "7.6",
-    "imdbVotes": 9800,
+    "imdbVotes": 9709,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399060/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "28 Sep 2022",
@@ -194,7 +218,7 @@
       "Action"
     ],
     "imdbRating": "5.4",
-    "imdbVotes": 7278,
+    "imdbVotes": 7563,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399061/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "15 Mar 2023",
@@ -218,7 +242,7 @@
       "Romance"
     ],
     "imdbRating": "4.3",
-    "imdbVotes": 5979,
+    "imdbVotes": 6281,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399062/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "23 Jan 2025",
@@ -240,7 +264,7 @@
       "Drama"
     ],
     "imdbRating": "7.4",
-    "imdbVotes": 10099,
+    "imdbVotes": 10010,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399063/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "17 Sep 2025",
@@ -263,7 +287,7 @@
       "Fantasy"
     ],
     "imdbRating": "6.0",
-    "imdbVotes": 8309,
+    "imdbVotes": 7957,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399064/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "10 Jan 2019",
@@ -287,7 +311,7 @@
       "Thriller"
     ],
     "imdbRating": "5.3",
-    "imdbVotes": 7380,
+    "imdbVotes": 7307,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399065/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "13 Jul 2023",
@@ -310,7 +334,7 @@
       "Drama"
     ],
     "imdbRating": "5.0",
-    "imdbVotes": 6661,
+    "imdbVotes": 6959,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399066/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "09 Apr 2026",
@@ -333,7 +357,7 @@
       "Romance"
     ],
     "imdbRating": "5.5",
-    "imdbVotes": 7123,
+    "imdbVotes": 7653,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399067/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "04 Dec 2024",
@@ -357,7 +381,7 @@
       "Drama"
     ],
     "imdbRating": "7.6",
-    "imdbVotes": 10351,
+    "imdbVotes": 10454,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399068/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "05 Nov 2009",
@@ -380,7 +404,7 @@
       "Drama"
     ],
     "imdbRating": "0.0",
-    "imdbVotes": 124,
+    "imdbVotes": 113,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/467756/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "29 Oct 2026",
@@ -402,7 +426,7 @@
       "Horror"
     ],
     "imdbRating": "5.2",
-    "imdbVotes": 6921,
+    "imdbVotes": 7005,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399108/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "08 Feb 2023",
@@ -426,7 +450,7 @@
       "Horror"
     ],
     "imdbRating": "6.4",
-    "imdbVotes": 8615,
+    "imdbVotes": 8332,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399076/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "06 Sep 2023",
@@ -450,7 +474,7 @@
       "Thriller"
     ],
     "imdbRating": "6.0",
-    "imdbVotes": 7746,
+    "imdbVotes": 8131,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399069/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "26 Feb 2025",
@@ -474,7 +498,7 @@
       "Comedy"
     ],
     "imdbRating": "5.5",
-    "imdbVotes": 7326,
+    "imdbVotes": 7680,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399070/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "09 Oct 2025",
@@ -498,7 +522,7 @@
       "Adventure"
     ],
     "imdbRating": "7.6",
-    "imdbVotes": 9983,
+    "imdbVotes": 10400,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399122/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "14 May 2018",
@@ -520,7 +544,7 @@
       "Horror"
     ],
     "imdbRating": "5.2",
-    "imdbVotes": 7168,
+    "imdbVotes": 6646,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399075/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "14 Aug 2024",
@@ -542,7 +566,7 @@
       "Documentary"
     ],
     "imdbRating": "8.3",
-    "imdbVotes": 10547,
+    "imdbVotes": 10934,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399084/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "24 Nov 2022",
@@ -566,7 +590,7 @@
       "Thriller"
     ],
     "imdbRating": "6.7",
-    "imdbVotes": 8585,
+    "imdbVotes": 9029,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/460640/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "20 Aug 2026",
@@ -589,7 +613,7 @@
       "Adventure"
     ],
     "imdbRating": "6.2",
-    "imdbVotes": 8620,
+    "imdbVotes": 8482,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399107/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "05 Apr 2022",
@@ -612,7 +636,7 @@
       "Drama"
     ],
     "imdbRating": "5.7",
-    "imdbVotes": 7337,
+    "imdbVotes": 7523,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399078/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "18 Feb 2026",
@@ -635,7 +659,7 @@
       "Drama"
     ],
     "imdbRating": "5.4",
-    "imdbVotes": 6943,
+    "imdbVotes": 7087,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399079/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "11 Sep 2025",
@@ -658,7 +682,7 @@
       "Thriller"
     ],
     "imdbRating": "6.1",
-    "imdbVotes": 8398,
+    "imdbVotes": 8532,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399057/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "21 Nov 2019",
@@ -681,7 +705,7 @@
       "Horror"
     ],
     "imdbRating": "5.9",
-    "imdbVotes": 8080,
+    "imdbVotes": 7567,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399109/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "27 Jan 2022",
@@ -705,7 +729,7 @@
       "Comedy"
     ],
     "imdbRating": "6.4",
-    "imdbVotes": 8985,
+    "imdbVotes": 8789,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399110/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "16 Feb 2017",
@@ -729,7 +753,7 @@
       "Crime"
     ],
     "imdbRating": "7.1",
-    "imdbVotes": 9803,
+    "imdbVotes": 9412,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399111/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "15 Jan 2020",
@@ -751,7 +775,7 @@
       "Horror"
     ],
     "imdbRating": "3.6",
-    "imdbVotes": 5034,
+    "imdbVotes": 4805,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399096/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "04 Sep 2025",
@@ -774,7 +798,7 @@
       "History"
     ],
     "imdbRating": "7.3",
-    "imdbVotes": 9742,
+    "imdbVotes": 9783,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399081/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "26 Sep 2024",
@@ -798,7 +822,7 @@
       "Thriller"
     ],
     "imdbRating": "8.0",
-    "imdbVotes": 10328,
+    "imdbVotes": 10170,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399112/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "05 Jan 2017",
@@ -821,7 +845,7 @@
       "Thriller"
     ],
     "imdbRating": "4.6",
-    "imdbVotes": 6472,
+    "imdbVotes": 6134,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399082/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "24 Aug 2023",
@@ -846,7 +870,7 @@
       "Western"
     ],
     "imdbRating": "6.8",
-    "imdbVotes": 9218,
+    "imdbVotes": 8883,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399077/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "21 Feb 1993",
@@ -869,7 +893,7 @@
       "Crime"
     ],
     "imdbRating": "5.5",
-    "imdbVotes": 7013,
+    "imdbVotes": 7244,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399113/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "04 Jun 2026",
@@ -891,7 +915,7 @@
       "Drama"
     ],
     "imdbRating": "6.5",
-    "imdbVotes": 8483,
+    "imdbVotes": 8547,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399086/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "30 Sep 2021",
@@ -915,7 +939,7 @@
       "Drama"
     ],
     "imdbRating": "7.8",
-    "imdbVotes": 10726,
+    "imdbVotes": 10229,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399087/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "20 May 2026",
@@ -940,7 +964,7 @@
       "Fantasy"
     ],
     "imdbRating": "7.4",
-    "imdbVotes": 9367,
+    "imdbVotes": 9596,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399088/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "29 Nov 2018",
@@ -963,7 +987,7 @@
       "Drama"
     ],
     "imdbRating": "6.0",
-    "imdbVotes": 7779,
+    "imdbVotes": 7720,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399083/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "03 Nov 2005",
@@ -986,7 +1010,7 @@
       "Romance"
     ],
     "imdbRating": "6.2",
-    "imdbVotes": 8675,
+    "imdbVotes": 8695,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399089/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "16 Apr 2026",
@@ -1010,7 +1034,7 @@
       "Thriller"
     ],
     "imdbRating": "6.1",
-    "imdbVotes": 8449,
+    "imdbVotes": 7945,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399071/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "07 Jun 2023",
@@ -1033,7 +1057,7 @@
       "Drama"
     ],
     "imdbRating": "6.3",
-    "imdbVotes": 8000,
+    "imdbVotes": 8753,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399090/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "28 Sep 2023",
@@ -1056,7 +1080,7 @@
       "Drama"
     ],
     "imdbRating": "7.0",
-    "imdbVotes": 9153,
+    "imdbVotes": 9327,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399091/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "03 Sep 2021",
@@ -1079,7 +1103,7 @@
       "Drama"
     ],
     "imdbRating": "5.4",
-    "imdbVotes": 7602,
+    "imdbVotes": 7310,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399072/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "14 Oct 2025",
@@ -1103,7 +1127,7 @@
       "Comedy"
     ],
     "imdbRating": "5.4",
-    "imdbVotes": 6995,
+    "imdbVotes": 7659,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399092/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "08 Jun 2025",
@@ -1125,7 +1149,7 @@
       "Drama"
     ],
     "imdbRating": "7.1",
-    "imdbVotes": 9716,
+    "imdbVotes": 9752,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399093/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "07 Oct 2021",
@@ -1149,7 +1173,7 @@
       "Western"
     ],
     "imdbRating": "6.3",
-    "imdbVotes": 8825,
+    "imdbVotes": 8845,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399094/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "11 Sep 2024",
@@ -1172,7 +1196,7 @@
       "Adventure"
     ],
     "imdbRating": "5.6",
-    "imdbVotes": 7798,
+    "imdbVotes": 7986,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399095/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "09 Oct 2024",
@@ -1196,7 +1220,7 @@
       "Thriller"
     ],
     "imdbRating": "7.0",
-    "imdbVotes": 9545,
+    "imdbVotes": 8933,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399114/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "07 Nov 2019",
@@ -1220,7 +1244,7 @@
       "Thriller"
     ],
     "imdbRating": "4.9",
-    "imdbVotes": 6503,
+    "imdbVotes": 6715,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399115/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "26 Sep 2024",
@@ -1244,7 +1268,7 @@
       "Thriller"
     ],
     "imdbRating": "7.1",
-    "imdbVotes": 9018,
+    "imdbVotes": 9343,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399116/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "26 Sep 2024",
@@ -1266,7 +1290,7 @@
       "Comedy"
     ],
     "imdbRating": "5.2",
-    "imdbVotes": 7131,
+    "imdbVotes": 6934,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399074/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "12 Jan 2004",
@@ -1289,7 +1313,7 @@
       "Thriller"
     ],
     "imdbRating": "6.2",
-    "imdbVotes": 8071,
+    "imdbVotes": 8506,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399097/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "19 Oct 2023",
@@ -1312,7 +1336,7 @@
       "Drama"
     ],
     "imdbRating": "3.9",
-    "imdbVotes": 5054,
+    "imdbVotes": 5188,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399098/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "26 Mar 2009",
@@ -1335,7 +1359,7 @@
       "Thriller"
     ],
     "imdbRating": "6.6",
-    "imdbVotes": 9028,
+    "imdbVotes": 9030,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399099/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "02 Oct 2025",
@@ -1358,7 +1382,7 @@
       "Horror"
     ],
     "imdbRating": "5.8",
-    "imdbVotes": 7654,
+    "imdbVotes": 7982,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399100/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "04 Oct 2023",
@@ -1381,7 +1405,7 @@
       "History"
     ],
     "imdbRating": "7.8",
-    "imdbVotes": 9958,
+    "imdbVotes": 9961,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399101/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "14 Dec 2023",
@@ -1403,7 +1427,7 @@
       "Comedy"
     ],
     "imdbRating": "6.2",
-    "imdbVotes": 8204,
+    "imdbVotes": 7994,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399102/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "24 Nov 2022",
@@ -1425,7 +1449,7 @@
       "Drama"
     ],
     "imdbRating": "0.0",
-    "imdbVotes": 95,
+    "imdbVotes": 161,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/465939/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "22 Oct 2026",
@@ -1447,7 +1471,7 @@
       "Drama"
     ],
     "imdbRating": "5.6",
-    "imdbVotes": 7378,
+    "imdbVotes": 7125,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399103/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "24 Sep 2025",
@@ -1470,7 +1494,7 @@
       "Drama"
     ],
     "imdbRating": "4.7",
-    "imdbVotes": 6059,
+    "imdbVotes": 6401,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399104/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "10 Dec 2025",
@@ -1493,7 +1517,7 @@
       "Drama"
     ],
     "imdbRating": "4.1",
-    "imdbVotes": 5642,
+    "imdbVotes": 5608,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399105/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "28 Nov 2024",
@@ -1516,7 +1540,7 @@
       "Horror"
     ],
     "imdbRating": "6.9",
-    "imdbVotes": 9217,
+    "imdbVotes": 8979,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399119/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "01 Nov 2017",
@@ -1539,7 +1563,7 @@
       "Action"
     ],
     "imdbRating": "6.2",
-    "imdbVotes": 8206,
+    "imdbVotes": 8293,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399055/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "17 Dec 2025",
@@ -1563,7 +1587,7 @@
       "Drama"
     ],
     "imdbRating": "4.7",
-    "imdbVotes": 6141,
+    "imdbVotes": 6392,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399120/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "24 Dec 2017",
@@ -1587,7 +1611,7 @@
       "War"
     ],
     "imdbRating": "6.5",
-    "imdbVotes": 8722,
+    "imdbVotes": 8328,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399117/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "09 Oct 2025",
@@ -1610,7 +1634,7 @@
       "Thriller"
     ],
     "imdbRating": "5.4",
-    "imdbVotes": 7477,
+    "imdbVotes": 7472,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399121/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "24 Oct 2019",
@@ -1632,7 +1656,7 @@
       "Drama"
     ],
     "imdbRating": "4.8",
-    "imdbVotes": 6534,
+    "imdbVotes": 6911,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399123/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "28 Apr 2022",
@@ -1654,7 +1678,7 @@
       "Comedy"
     ],
     "imdbRating": "5.1",
-    "imdbVotes": 7232,
+    "imdbVotes": 7300,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399080/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "11 Mar 2021",
@@ -1677,7 +1701,7 @@
       "Romance"
     ],
     "imdbRating": "5.7",
-    "imdbVotes": 8047,
+    "imdbVotes": 7775,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399118/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "13 Feb 2020",
@@ -1700,7 +1724,7 @@
       "Thriller"
     ],
     "imdbRating": "6.9",
-    "imdbVotes": 9251,
+    "imdbVotes": 9347,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399124/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "04 Oct 2023",
@@ -1723,7 +1747,7 @@
       "Mystery"
     ],
     "imdbRating": "6.2",
-    "imdbVotes": 8585,
+    "imdbVotes": 8018,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399056/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "29 May 2025",
@@ -1746,7 +1770,7 @@
       "Romance"
     ],
     "imdbRating": "5.3",
-    "imdbVotes": 6728,
+    "imdbVotes": 7221,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/399073/Images/Primary?quality=90&api_key=61df69e5210d44b68b2ba88311293f00",
     "releaseDate": "25 Dec 2024",
