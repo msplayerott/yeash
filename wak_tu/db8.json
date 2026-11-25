@@ -7,7 +7,7 @@
       "Comedy"
     ],
     "imdbRating": "8.4",
-    "imdbVotes": 10707,
+    "imdbVotes": 10776,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/463303/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "22 Dec 2009",
@@ -30,7 +30,7 @@
       "Thriller"
     ],
     "imdbRating": "6.5",
-    "imdbVotes": 8974,
+    "imdbVotes": 8803,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/478342/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "21 Oct 2026",
@@ -47,30 +47,6 @@
   },
   {
     "category": "Trending Movies",
-    "director": "Daley Pearson",
-    "genre": [
-      "Science Fiction",
-      "Adventure",
-      "Comedy"
-    ],
-    "imdbRating": "6.4",
-    "imdbVotes": 8956,
-    "language": "Hindi",
-    "posterUrl": "https://play.roarzone.net/emby/Items/478348/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "releaseDate": "11 Nov 2026",
-    "sliderUrl": "https://play.roarzone.net/emby/Items/478348/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "status": "on",
-    "storyline": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated — and unexpected.",
-    "streamUrl": "https://play.roarzone.net/emby/Videos/478348/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
-    "title": "Allen (2026)",
-    "headers": {
-      "referer": "https://play.roarzone.net/",
-      "origin": "",
-      "user_agent": ""
-    }
-  },
-  {
-    "category": "Trending Movies",
     "director": "Julia Ducournau",
     "genre": [
       "Horror",
@@ -78,7 +54,7 @@
       "Science Fiction"
     ],
     "imdbRating": "5.9",
-    "imdbVotes": 7488,
+    "imdbVotes": 8199,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/472726/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "19 Aug 2025",
@@ -101,7 +77,7 @@
       "Thriller"
     ],
     "imdbRating": "0.0",
-    "imdbVotes": 142,
+    "imdbVotes": 152,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/477895/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "01 Oct 2026",
@@ -118,53 +94,6 @@
   },
   {
     "category": "Trending Movies",
-    "director": "Kane Parsons",
-    "genre": [
-      "Horror",
-      "Mystery",
-      "Science Fiction"
-    ],
-    "imdbRating": "6.7",
-    "imdbVotes": 8739,
-    "language": "Hindi",
-    "posterUrl": "https://play.roarzone.net/emby/Items/476809/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "releaseDate": "26 May 2026",
-    "sliderUrl": "https://play.roarzone.net/emby/Items/476809/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "status": "on",
-    "storyline": "A strange doorway appears in the basement of a furniture showroom.",
-    "streamUrl": "https://play.roarzone.net/emby/Videos/476809/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
-    "title": "Backrooms (2026)",
-    "headers": {
-      "referer": "https://play.roarzone.net/",
-      "origin": "",
-      "user_agent": ""
-    }
-  },
-  {
-    "category": "Trending Movies",
-    "director": "S. S. Rajamouli",
-    "genre": [
-      "Action",
-      "Drama"
-    ],
-    "imdbRating": "8.0",
-    "imdbVotes": 10283,
-    "language": "Hindi",
-    "posterUrl": "https://play.roarzone.net/emby/Items/479289/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "releaseDate": "08 Jul 2015",
-    "sliderUrl": "https://play.roarzone.net/emby/Items/479289/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "status": "on",
-    "storyline": "The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.",
-    "streamUrl": "https://play.roarzone.net/emby/Videos/479289/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
-    "title": "Bāhubali: The Beginning (2015)",
-    "headers": {
-      "referer": "https://play.roarzone.net/",
-      "origin": "",
-      "user_agent": ""
-    }
-  },
-  {
-    "category": "Trending Movies",
     "director": "Balaji Tharaneetharan",
     "genre": [
       "Drama",
@@ -172,7 +101,7 @@
       "Action"
     ],
     "imdbRating": "9.2",
-    "imdbVotes": 11601,
+    "imdbVotes": 12460,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/467632/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "30 Sep 2026",
@@ -195,7 +124,7 @@
       "Thriller"
     ],
     "imdbRating": "7.8",
-    "imdbVotes": 10127,
+    "imdbVotes": 10562,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/467184/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "27 May 2026",
@@ -212,13 +141,36 @@
   },
   {
     "category": "Trending Movies",
+    "director": "Carlson Young",
+    "genre": [
+      "Romance",
+      "Comedy"
+    ],
+    "imdbRating": "6.3",
+    "imdbVotes": 8715,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/479846/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "releaseDate": "22 Nov 2026",
+    "sliderUrl": "https://play.roarzone.net/emby/Items/479846/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "status": "on",
+    "storyline": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
+    "streamUrl": "https://play.roarzone.net/emby/Videos/479846/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+    "title": "Clashing Through the Snow (2026)",
+    "headers": {
+      "referer": "https://play.roarzone.net/",
+      "origin": "",
+      "user_agent": ""
+    }
+  },
+  {
+    "category": "Trending Movies",
     "director": "Meghna Gulzar",
     "genre": [
       "Crime",
       "Drama"
     ],
-    "imdbRating": "6.0",
-    "imdbVotes": 7622,
+    "imdbRating": "6.4",
+    "imdbVotes": 8549,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/474561/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "17 Sep 2026",
@@ -242,7 +194,7 @@
       "Comedy"
     ],
     "imdbRating": "8.3",
-    "imdbVotes": 11042,
+    "imdbVotes": 10640,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/469663/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "20 Dec 2016",
@@ -265,7 +217,7 @@
       "Fantasy"
     ],
     "imdbRating": "7.2",
-    "imdbVotes": 9282,
+    "imdbVotes": 9812,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/478341/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "24 Sep 2026",
@@ -289,7 +241,7 @@
       "Thriller"
     ],
     "imdbRating": "8.2",
-    "imdbVotes": 10545,
+    "imdbVotes": 11136,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/463276/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "04 Dec 2025",
@@ -313,7 +265,7 @@
       "Thriller"
     ],
     "imdbRating": "8.2",
-    "imdbVotes": 11198,
+    "imdbVotes": 10553,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/463266/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "17 Mar 2026",
@@ -355,13 +307,62 @@
   },
   {
     "category": "Trending Movies",
+    "director": "Siddharth Anand",
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "imdbRating": "6.1",
+    "imdbVotes": 7827,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/479848/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "releaseDate": "23 Jan 2024",
+    "sliderUrl": "https://play.roarzone.net/emby/Items/479848/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "status": "on",
+    "storyline": "As India faces a militant attack in Kashmir, the country’s best combat aviators join forces under a reckless yet brilliant squadron leader to form 'Air Dragons', faces mortal dangers and their inner demons.",
+    "streamUrl": "https://play.roarzone.net/emby/Videos/479848/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+    "title": "Fighter (2024)",
+    "headers": {
+      "referer": "https://play.roarzone.net/",
+      "origin": "",
+      "user_agent": ""
+    }
+  },
+  {
+    "category": "Trending Movies",
+    "director": "Januel Mercado",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "imdbRating": "7.7",
+    "imdbVotes": 10386,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/479850/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "releaseDate": "09 Sep 2026",
+    "sliderUrl": "https://play.roarzone.net/emby/Items/479850/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "status": "on",
+    "storyline": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+    "streamUrl": "https://play.roarzone.net/emby/Videos/479850/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+    "title": "Forgotten Island (2026)",
+    "headers": {
+      "referer": "https://play.roarzone.net/",
+      "origin": "",
+      "user_agent": ""
+    }
+  },
+  {
+    "category": "Trending Movies",
     "director": "Ritesh Shah",
     "genre": [
       "Thriller",
       "Crime"
     ],
     "imdbRating": "3.2",
-    "imdbVotes": 4903,
+    "imdbVotes": 4700,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/466138/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "22 Oct 2026",
@@ -378,13 +379,37 @@
   },
   {
     "category": "Trending Movies",
+    "director": "Devashish Makhija",
+    "genre": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "5.3",
+    "imdbVotes": 6995,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/479844/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "releaseDate": "02 Sep 2026",
+    "sliderUrl": "https://play.roarzone.net/emby/Items/479844/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "status": "on",
+    "storyline": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
+    "streamUrl": "https://play.roarzone.net/emby/Videos/479844/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+    "title": "Gandhari (2026)",
+    "headers": {
+      "referer": "https://play.roarzone.net/",
+      "origin": "",
+      "user_agent": ""
+    }
+  },
+  {
+    "category": "Trending Movies",
     "director": "William Eubank",
     "genre": [
       "Action",
       "Thriller"
     ],
     "imdbRating": "9.0",
-    "imdbVotes": 11955,
+    "imdbVotes": 11856,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/479292/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "05 Nov 2026",
@@ -408,7 +433,7 @@
       "Action"
     ],
     "imdbRating": "7.7",
-    "imdbVotes": 9975,
+    "imdbVotes": 10276,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/473528/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "02 Nov 2026",
@@ -432,7 +457,7 @@
       "Drama"
     ],
     "imdbRating": "8.0",
-    "imdbVotes": 10131,
+    "imdbVotes": 10371,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/478345/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "22 Oct 2026",
@@ -455,7 +480,7 @@
       "Thriller"
     ],
     "imdbRating": "7.5",
-    "imdbVotes": 9528,
+    "imdbVotes": 10194,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/469738/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "18 Sep 2026",
@@ -472,29 +497,6 @@
   },
   {
     "category": "Trending Movies",
-    "director": "Shana Feste",
-    "genre": [
-      "Thriller",
-      "Mystery"
-    ],
-    "imdbRating": "6.3",
-    "imdbVotes": 8271,
-    "language": "Hindi",
-    "posterUrl": "https://play.roarzone.net/emby/Items/477893/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "releaseDate": "12 Nov 2026",
-    "sliderUrl": "https://play.roarzone.net/emby/Items/477893/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "status": "on",
-    "storyline": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
-    "streamUrl": "https://play.roarzone.net/emby/Videos/477893/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
-    "title": "Heartland (2026)",
-    "headers": {
-      "referer": "https://play.roarzone.net/",
-      "origin": "",
-      "user_agent": ""
-    }
-  },
-  {
-    "category": "Trending Movies",
     "director": "Na Hong-jin",
     "genre": [
       "Science Fiction",
@@ -502,7 +504,7 @@
       "Action"
     ],
     "imdbRating": "6.9",
-    "imdbVotes": 8876,
+    "imdbVotes": 9307,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/479295/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "14 Jul 2026",
@@ -519,22 +521,44 @@
   },
   {
     "category": "Trending Movies",
-    "director": "Shiva Nirvana",
+    "director": "Guy Ritchie",
     "genre": [
-      "Drama",
       "Action",
+      "Crime"
+    ],
+    "imdbRating": "6.3",
+    "imdbVotes": 8290,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/479851/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "releaseDate": "12 May 2026",
+    "sliderUrl": "https://play.roarzone.net/emby/Items/479851/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "status": "on",
+    "storyline": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+    "streamUrl": "https://play.roarzone.net/emby/Videos/479851/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+    "title": "In the Grey (2026)",
+    "headers": {
+      "referer": "https://play.roarzone.net/",
+      "origin": "",
+      "user_agent": ""
+    }
+  },
+  {
+    "category": "Trending Movies",
+    "director": "Jacob Chase",
+    "genre": [
+      "Horror",
       "Thriller"
     ],
-    "imdbRating": "6.5",
-    "imdbVotes": 8909,
+    "imdbRating": "6.0",
+    "imdbVotes": 7659,
     "language": "Hindi",
-    "posterUrl": "https://play.roarzone.net/emby/Items/479680/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "releaseDate": "19 Aug 2026",
-    "sliderUrl": "https://play.roarzone.net/emby/Items/479680/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "posterUrl": "https://play.roarzone.net/emby/Items/479843/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "releaseDate": "18 Aug 2026",
+    "sliderUrl": "https://play.roarzone.net/emby/Items/479843/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "status": "on",
-    "storyline": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-    "streamUrl": "https://play.roarzone.net/emby/Videos/479680/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
-    "title": "Irumudi (2026)",
+    "storyline": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "streamUrl": "https://play.roarzone.net/emby/Videos/479843/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+    "title": "Insidious: Out of the Further (2026)",
     "headers": {
       "referer": "https://play.roarzone.net/",
       "origin": "",
@@ -550,7 +574,7 @@
       "Drama"
     ],
     "imdbRating": "8.0",
-    "imdbVotes": 10256,
+    "imdbVotes": 10325,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/470402/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "13 Oct 2026",
@@ -573,7 +597,7 @@
       "Drama"
     ],
     "imdbRating": "5.1",
-    "imdbVotes": 7256,
+    "imdbVotes": 6769,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/463289/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "21 Jul 2026",
@@ -590,13 +614,38 @@
   },
   {
     "category": "Trending Movies",
+    "director": "Nag Ashwin",
+    "genre": [
+      "Drama",
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "imdbRating": "7.0",
+    "imdbVotes": 9449,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/479847/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "releaseDate": "25 Jun 2024",
+    "sliderUrl": "https://play.roarzone.net/emby/Items/479847/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "status": "on",
+    "storyline": "In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears up for his final battle of redemption at the sign of hope in a dystopian world and Bhairava, a wisecracking and self-interested bounty hunter, tired of the perilous life becomes the hurdle in the process.",
+    "streamUrl": "https://play.roarzone.net/emby/Videos/479847/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+    "title": "Kalki 2898-AD (2024)",
+    "headers": {
+      "referer": "https://play.roarzone.net/",
+      "origin": "",
+      "user_agent": ""
+    }
+  },
+  {
+    "category": "Trending Movies",
     "director": "Özcan Deniz",
     "genre": [
       "Romance",
       "Drama"
     ],
     "imdbRating": "7.5",
-    "imdbVotes": 9703,
+    "imdbVotes": 9975,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/477887/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "17 Nov 2026",
@@ -618,7 +667,7 @@
       "Drama"
     ],
     "imdbRating": "8.3",
-    "imdbVotes": 10999,
+    "imdbVotes": 11336,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/477405/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "19 Dec 2007",
@@ -642,7 +691,7 @@
       "Comedy"
     ],
     "imdbRating": "7.8",
-    "imdbVotes": 10405,
+    "imdbVotes": 10601,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/477407/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "17 Nov 2026",
@@ -665,7 +714,7 @@
       "Drama"
     ],
     "imdbRating": "7.8",
-    "imdbVotes": 10146,
+    "imdbVotes": 10697,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/462887/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "09 Sep 2026",
@@ -689,7 +738,7 @@
       "Drama"
     ],
     "imdbRating": "0.0",
-    "imdbVotes": 86,
+    "imdbVotes": 148,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/468050/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "29 Oct 2026",
@@ -713,7 +762,7 @@
       "Thriller"
     ],
     "imdbRating": "7.0",
-    "imdbVotes": 9493,
+    "imdbVotes": 9051,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/470077/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "02 Sep 2026",
@@ -730,13 +779,38 @@
   },
   {
     "category": "Trending Movies",
+    "director": "Thomas Kail",
+    "genre": [
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "imdbRating": "5.8",
+    "imdbVotes": 8023,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/479849/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "releaseDate": "07 Jul 2026",
+    "sliderUrl": "https://play.roarzone.net/emby/Items/479849/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "status": "on",
+    "storyline": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+    "streamUrl": "https://play.roarzone.net/emby/Videos/479849/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+    "title": "Moana (2026)",
+    "headers": {
+      "referer": "https://play.roarzone.net/",
+      "origin": "",
+      "user_agent": ""
+    }
+  },
+  {
+    "category": "Trending Movies",
     "director": "Karan Johar",
     "genre": [
       "Drama",
       "Romance"
     ],
     "imdbRating": "7.9",
-    "imdbVotes": 10068,
+    "imdbVotes": 10628,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/479681/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "10 Feb 2010",
@@ -753,13 +827,37 @@
   },
   {
     "category": "Trending Movies",
+    "director": "Rajkumar Periasamy",
+    "genre": [
+      "Crime",
+      "Action",
+      "Thriller"
+    ],
+    "imdbRating": "7.8",
+    "imdbVotes": 10563,
+    "language": "Hindi",
+    "posterUrl": "https://play.roarzone.net/emby/Items/479845/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "releaseDate": "18 Nov 2026",
+    "sliderUrl": "https://play.roarzone.net/emby/Items/479845/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
+    "status": "on",
+    "storyline": "Set across the temple corridors of Tirupati and Tiruvannamalai, an elite undercover operative infiltrates a sprawling transnational red sanders syndicate. As criminal politics escalate, a covert task force launches Operation Mole to dismantle the cartel from within.",
+    "streamUrl": "https://play.roarzone.net/emby/Videos/479845/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
+    "title": "O.M: Operation Mole (2026)",
+    "headers": {
+      "referer": "https://play.roarzone.net/",
+      "origin": "",
+      "user_agent": ""
+    }
+  },
+  {
+    "category": "Trending Movies",
     "director": "Curry Barker",
     "genre": [
       "Horror",
       "Thriller"
     ],
     "imdbRating": "7.8",
-    "imdbVotes": 10436,
+    "imdbVotes": 10114,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/462885/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "12 May 2026",
@@ -783,7 +881,7 @@
       "Fantasy"
     ],
     "imdbRating": "8.4",
-    "imdbVotes": 10605,
+    "imdbVotes": 10985,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/477560/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "14 Jul 2026",
@@ -805,7 +903,7 @@
       "Drama"
     ],
     "imdbRating": "8.4",
-    "imdbVotes": 11293,
+    "imdbVotes": 11235,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/478344/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "04 Nov 2026",
@@ -822,35 +920,13 @@
   },
   {
     "category": "Trending Movies",
-    "director": "Rob Savage",
-    "genre": [
-      "Horror"
-    ],
-    "imdbRating": "5.8",
-    "imdbVotes": 8203,
-    "language": "Hindi",
-    "posterUrl": "https://play.roarzone.net/emby/Items/472935/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "releaseDate": "06 Oct 2026",
-    "sliderUrl": "https://play.roarzone.net/emby/Items/472935/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "status": "on",
-    "storyline": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "streamUrl": "https://play.roarzone.net/emby/Videos/472935/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
-    "title": "Other Mommy (2026)",
-    "headers": {
-      "referer": "https://play.roarzone.net/",
-      "origin": "",
-      "user_agent": ""
-    }
-  },
-  {
-    "category": "Trending Movies",
     "director": "Varun V. Sharma",
     "genre": [
       "Romance",
       "Comedy"
     ],
     "imdbRating": "6.0",
-    "imdbVotes": 7651,
+    "imdbVotes": 7770,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/474559/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "11 Nov 2026",
@@ -873,7 +949,7 @@
       "Drama"
     ],
     "imdbRating": "5.6",
-    "imdbVotes": 7286,
+    "imdbVotes": 7242,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/476808/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "02 Jun 2026",
@@ -897,7 +973,7 @@
       "Thriller"
     ],
     "imdbRating": "0.0",
-    "imdbVotes": 131,
+    "imdbVotes": 146,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/477892/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "19 Nov 2026",
@@ -921,7 +997,7 @@
       "Science Fiction"
     ],
     "imdbRating": "8.1",
-    "imdbVotes": 10355,
+    "imdbVotes": 10227,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/479296/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "17 Dec 2014",
@@ -944,7 +1020,7 @@
       "Adventure"
     ],
     "imdbRating": "8.2",
-    "imdbVotes": 10411,
+    "imdbVotes": 10474,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/479678/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "14 Mar 2026",
@@ -968,7 +1044,7 @@
       "Adventure"
     ],
     "imdbRating": "7.2",
-    "imdbVotes": 9895,
+    "imdbVotes": 9546,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/470254/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "04 Nov 2026",
@@ -992,7 +1068,7 @@
       "Drama"
     ],
     "imdbRating": "4.7",
-    "imdbVotes": 6137,
+    "imdbVotes": 6069,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/473527/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "14 Oct 2026",
@@ -1015,7 +1091,7 @@
       "Thriller"
     ],
     "imdbRating": "8.1",
-    "imdbVotes": 10679,
+    "imdbVotes": 10336,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/462895/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "08 Oct 2026",
@@ -1039,7 +1115,7 @@
       "Adventure"
     ],
     "imdbRating": "7.4",
-    "imdbVotes": 9970,
+    "imdbVotes": 10186,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/470078/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "15 Sep 2026",
@@ -1063,7 +1139,7 @@
       "Drama"
     ],
     "imdbRating": "7.8",
-    "imdbVotes": 10238,
+    "imdbVotes": 9963,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/463270/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "23 Mar 2022",
@@ -1087,7 +1163,7 @@
       "Action"
     ],
     "imdbRating": "8.4",
-    "imdbVotes": 11119,
+    "imdbVotes": 11121,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/475293/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "04 Nov 2026",
@@ -1110,7 +1186,7 @@
       "Thriller"
     ],
     "imdbRating": "7.0",
-    "imdbVotes": 8886,
+    "imdbVotes": 9643,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/479679/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "06 Oct 2026",
@@ -1134,7 +1210,7 @@
       "Adventure"
     ],
     "imdbRating": "8.0",
-    "imdbVotes": 10158,
+    "imdbVotes": 10122,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/462891/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "28 Jul 2026",
@@ -1160,7 +1236,7 @@
       "Fantasy"
     ],
     "imdbRating": "6.3",
-    "imdbVotes": 8488,
+    "imdbVotes": 8206,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/477891/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "19 Nov 2026",
@@ -1177,38 +1253,13 @@
   },
   {
     "category": "Trending Movies",
-    "director": "Andrew Stanton",
-    "genre": [
-      "Animation",
-      "Family",
-      "Comedy",
-      "Adventure"
-    ],
-    "imdbRating": "7.4",
-    "imdbVotes": 9371,
-    "language": "Hindi",
-    "posterUrl": "https://play.roarzone.net/emby/Items/470442/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "releaseDate": "16 Jun 2026",
-    "sliderUrl": "https://play.roarzone.net/emby/Items/470442/Images/Backdrop/0?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
-    "status": "on",
-    "storyline": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-    "streamUrl": "https://play.roarzone.net/emby/Videos/470442/stream?static=true&api_key=731adf358dc1482ca23610b3511a83ad",
-    "title": "Toy Story 5 (2026)",
-    "headers": {
-      "referer": "https://play.roarzone.net/",
-      "origin": "",
-      "user_agent": ""
-    }
-  },
-  {
-    "category": "Trending Movies",
     "director": "Michael Showalter",
     "genre": [
       "Mystery",
       "Thriller"
     ],
     "imdbRating": "6.4",
-    "imdbVotes": 8323,
+    "imdbVotes": 8776,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/467633/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "29 Sep 2026",
@@ -1232,7 +1283,7 @@
       "Comedy"
     ],
     "imdbRating": "7.2",
-    "imdbVotes": 9701,
+    "imdbVotes": 9516,
     "language": "Hindi",
     "posterUrl": "https://play.roarzone.net/emby/Items/462882/Images/Primary?quality=90&api_key=731adf358dc1482ca23610b3511a83ad",
     "releaseDate": "13 Aug 2026",
